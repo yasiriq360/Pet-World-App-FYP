@@ -58,7 +58,7 @@ A core part of this project is the integration of deep learning models for intel
 | :--- | :--- | :--- | :--- |
 | **Dog Breed ID** | Identify a dog's breed from an image (130 classes) | **VGG16** | **86%** |
 | **Cat Breed ID** | Identify a cat's breed from an image (37 classes) | **Xception** | **70%** |
-| **Skin Disease ID** | Preliminary analysis of skin conditions (7 classes) | (Custom CNN) | (N/A) |
+| **Skin Disease ID** | Preliminary analysis of skin conditions (7 classes) | Yolov12 | (N/A) |
 | **Cat vs. Dog** | A binary classifier | **Custom CNN** | **83%** |
 
 -----
@@ -87,8 +87,8 @@ This project was developed by a dedicated team of four students:
 
 | Name | Registration Number |
 | :--- | :--- |
-| **Alman Aqib** | 211400181 |
 | **Yasir Iqbal** | 211400168 |
+| **Alman Aqib** | 211400181 |
 | **Muhammad Ahmar**| 211400174 |
 | **Muhammad Musa Meer**| 211400179 |
 
