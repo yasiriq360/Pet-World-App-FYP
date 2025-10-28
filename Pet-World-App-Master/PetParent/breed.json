@@ -1,0 +1,1911 @@
+{
+  "cat_breeds": [
+    {
+      "name": "Abyssinian",
+      "basic_information": {
+        "size": "Medium (6–10 lbs; females smaller)",
+        "origin": "Ethiopia (historical Abyssinia)",
+        "lifespan": "Approximately 9–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Lean, muscular, agile",
+        "head_shape": "Wedge-shaped",
+        "eye_shape_and_color": "Almond-shaped, green or gold",
+        "ear_shape": "Large, pointed",
+        "coat_type": "Short, fine, 'ticked' with silver-tipped hairs",
+        "coat_colors": "Ruddy (tawny), red, blue, fawn",
+        "distinctive_features": "Sleek, elegant appearance"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Highly active, playful",
+        "curiosity": "Loves to explore high places",
+        "social_interaction": "Enjoys companionship, gets along well with pets and children",
+        "affection_level": "Affectionate but not clingy",
+        "independence": "Can entertain itself with toys",
+        "intelligence": "Highly intelligent, enjoys problem-solving games"
+      },
+      "social_compatibility": {
+        "with_humans": "Bonds strongly with owners",
+        "with_pets": "Friendly, generally gets along well",
+        "with_children": "Playful and tolerant",
+        "environment": "Suitable for households with ample play space and interactive toys"
+      },
+      "health_profile": {
+        "lifespan": "9–15 years",
+        "common_genetic_issues": [
+          "Progressive Retinal Atrophy (PRA)",
+          "Pyruvate Kinase Deficiency",
+          "Patellar Luxation",
+          "Gingivitis",
+          "Renal Amyloidosis"
+        ],
+        "preventive_care": [
+          "Regular vet check-ups",
+          "Dental care",
+          "Eye exams",
+          "Genetic testing for PRA and PK Deficiency"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing to remove loose hairs",
+        "bathing": "Only when necessary",
+        "ear_cleaning": "As needed",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Regular brushing and dental check-ups"
+      },
+      "environmental_needs": {
+        "space": "Requires space to explore and climb",
+        "toys_and_enrichment": "Puzzle toys, climbing structures",
+        "temperature_sensitivity": "Moderate; short coat requires warmth in cooler temperatures"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent and trainable",
+        "preferred_activities": "Puzzle games, fetch, climbing",
+        "socialization_needs": "Early socialization recommended"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "May become bored if left alone for long periods",
+        "exercise_requirements": "Needs regular play to prevent boredom",
+        "health_monitoring": "Requires monitoring for hereditary conditions"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12–16 hours per day",
+        "preferred_sleeping_spots": "Elevated areas, soft beds, warm spaces",
+        "sleep_cycle": "Alternates between short naps and deep sleep periods",
+        "activity_vs_rest": "Active during morning and evening (crepuscular)",
+        "comfort_preferences": "May prefer sleeping in high places or near humans"
+      }
+    },
+    {
+      "name": "American Shorthair",
+      "basic_information": {
+        "size": "Medium-to-large (males 11–15 lbs, females 8–12 lbs)",
+        "origin": "United States",
+        "lifespan": "Approximately 15–20 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Stocky, muscular, broad-chested",
+        "head_shape": "Rounded with medium ears",
+        "eye_shape_and_color": "Large, round, various colors",
+        "ear_shape": "Medium, rounded tips",
+        "coat_type": "Short, dense",
+        "coat_colors": "All colors/patterns except pointed (e.g., silver tabby, solid, tortie, calico)",
+        "distinctive_features": "Classic tabby pattern, sturdy build"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderately active",
+        "curiosity": "Enjoys interactive play and puzzles",
+        "social_interaction": "Friendly, adaptable, good with children and pets",
+        "affection_level": "Affectionate but not overly needy",
+        "independence": "Tolerates alone time well",
+        "intelligence": "Smart, enjoys hunting games"
+      },
+      "social_compatibility": {
+        "with_humans": "Enjoys human attention but not lap-bound",
+        "with_pets": "Good with dogs and other pets with supervision",
+        "with_children": "Patient and tolerant",
+        "environment": "Adaptable to various home sizes, thrives with play opportunities"
+      },
+      "health_profile": {
+        "lifespan": "15–20 years",
+        "common_genetic_issues": [
+          "Hypertrophic Cardiomyopathy (HCM)",
+          "Flat-face traits (eye/respiratory issues)",
+          "Dental problems (gingivitis)",
+          "Obesity"
+        ],
+        "preventive_care": [
+          "Regular vet check-ups",
+          "Weight management",
+          "Dental care",
+          "Heart screenings"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing, more during shedding seasons",
+        "bathing": "Rarely needed",
+        "ear_cleaning": "Routine checks",
+        "nail_trimming": "As needed",
+        "dental_hygiene": "Regular dental care to prevent gingivitis"
+      },
+      "environmental_needs": {
+        "space": "Moderate space needs, enjoys lounging areas",
+        "toys_and_enrichment": "Interactive toys, scratching posts",
+        "temperature_sensitivity": "Tolerates most climates with short coat"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Moderately trainable",
+        "preferred_activities": "Hunting games, puzzle feeders",
+        "socialization_needs": "Benefits from early socialization"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Generally handles alone time well",
+        "exercise_requirements": "Needs moderate play to prevent obesity",
+        "health_monitoring": "Monitor for heart and dental issues"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Comfortable beds, sunny spots",
+        "sleep_cycle": "Crepuscular with naps throughout day",
+        "activity_vs_rest": "Balanced between play and rest",
+        "comfort_preferences": "Prefers soft, warm surfaces"
+      }
+    },
+    {
+      "name": "Balinese",
+      "basic_information": {
+        "size": "Medium (males 6–8 lbs, females 5–7 lbs)",
+        "origin": "United States (Siamese derivative)",
+        "lifespan": "Approximately 18–22 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Slender, lithe, elegant",
+        "head_shape": "Wedge-shaped, refined",
+        "eye_shape_and_color": "Almond-shaped, deep blue",
+        "ear_shape": "Large, pointed",
+        "coat_type": "Long, fine, silky single coat",
+        "coat_colors": "Point patterns (seal, blue, chocolate, lilac, red, cream, tortie, lynx)",
+        "distinctive_features": "Long plumed tail, Siamese-like structure"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Energetic, playful",
+        "curiosity": "Highly curious, loves exploration",
+        "social_interaction": "Very social, follows owners, enjoys conversation",
+        "affection_level": "Highly affectionate, people-oriented",
+        "independence": "Prefers company, may get bored alone",
+        "intelligence": "Highly intelligent, enjoys puzzles"
+      },
+      "social_compatibility": {
+        "with_humans": "Thrives on human interaction",
+        "with_pets": "Good with other pets if raised together",
+        "with_children": "Friendly, enjoys active households",
+        "environment": "Best in homes with attention and stimulation"
+      },
+      "health_profile": {
+        "lifespan": "18–22 years",
+        "common_genetic_issues": [
+          "Progressive Retinal Atrophy (PRA)",
+          "Hepatic Amyloidosis"
+        ],
+        "preventive_care": [
+          "Routine vet care",
+          "Eye and liver health monitoring",
+          "Balanced diet"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly combing, focus on belly and tail",
+        "bathing": "Occasionally if oily",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "As needed",
+        "dental_hygiene": "Routinektabto standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys climbing areas",
+        "toys_and_enrichment": "Puzzle feeders, interactive toys",
+        "temperature_sensitivity": "Prefers warm environments due to single coat"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly trainable due to intelligence",
+        "preferred_activities": "Games, puzzle toys, interaction",
+        "socialization_needs": "Early socialization for best behavior"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "May get lonely if left alone",
+        "exercise_requirements": "Needs mental and physical stimulation",
+        "health_monitoring": "Monitor eyes and liver health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Warm, soft areas near owners",
+        "sleep_cycle": "Crepuscular, active in morning/evening",
+        "activity_vs_rest": "High activity interspersed with naps",
+        "comfort_preferences": "Loves cozy, elevated spots"
+      }
+    },
+    {
+      "name": "Bengal",
+      "basic_information": {
+        "size": "Medium-to-large (8–15 lbs)",
+        "origin": "United States (Asian Leopard Cat hybrid)",
+        "lifespan": "Approximately 12–16 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Athletic, muscular, lean",
+        "head_shape": "Broad with strong muzzle",
+        "eye_shape_and_color": "Large, green or gold",
+        "ear_shape": "Medium, rounded",
+        "coat_type": "Short to medium, high-contrast spotted or marbled",
+        "coat_colors": "Golden, rust, ivory, snow with glitter effect",
+        "distinctive_features": "Wild, spotted coat, shiny fur"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Exceptionally active, energetic",
+        "curiosity": "Adventurous, loves water",
+        "social_interaction": "Loyal, friendly, interactive",
+        "affection_level": "Forms strong bonds with family",
+        "independence": "Can be territorial with other pets",
+        "intelligence": "Highly intelligent, trainable"
+      },
+      "social_compatibility": {
+        "with_humans": "Enjoys human company, interactive",
+        "with_pets": "May chase small pets due to hunting instinct",
+        "with_children": "Tolerant with proper socialization",
+        "environment": "Best in active homes with space to explore"
+      },
+      "health_profile": {
+        "lifespan": "12–16 years",
+        "common_genetic_issues": [
+          "Distal Neuropathy",
+          "Patellar Luxation",
+          "Hip Dysplasia",
+          "Hypertrophic Cardiomyopathy (HCM)"
+        ],
+        "preventive_care": [
+          "Periodic vet check-ups",
+          "Active lifestyle",
+          "Weight management"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing for glossy coat",
+        "bathing": "Rarely needed",
+        "ear_cleaning": "Routine checks",
+        "nail_trimming": "Regular trims",
+        "dental_hygiene": "Standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Needs ample space for exercise",
+        "toys_and_enrichment": "Fetch toys, puzzle games, climbing structures",
+        "temperature_sensitivity": "Tolerates most climates"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly trainable, can learn tricks",
+        "preferred_activities": "Fetch, leash walking, water play",
+        "socialization_needs": "Requires early socialization"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Needs companionship or toys",
+        "exercise_requirements": "High exercise needs to prevent boredom",
+        "health_monitoring": "Monitor for joint and heart issues"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Elevated perches, soft beds",
+        "sleep_cycle": "Crepuscular, active at dawn/dusk",
+        "activity_vs_rest": "High energy with frequent naps",
+        "comfort_preferences": "Prefers warm, secure spots"
+      }
+    },
+    {
+      "name": "Birman",
+      "basic_information": {
+        "size": "Medium-to-large (males 9–15 lbs, females 6–12 lbs)",
+        "origin": "France (legendary temple cat)",
+        "lifespan": "Approximately 12–15+ years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Muscular, sturdy",
+        "head_shape": "Broad, rounded",
+        "eye_shape_and_color": "Large, deep blue",
+        "ear_shape": "Medium, rounded tips",
+        "coat_type": "Semi-long, silky, non-matting",
+        "coat_colors": "Colorpoint (seal, chocolate, blue, lilac, red, cream)",
+        "distinctive_features": "White gloves on paws, tuxedo bib pattern"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderately playful, especially as kittens",
+        "curiosity": "Mildly curious, content to lounge",
+        "social_interaction": "Very sociable, loves family",
+        "affection_level": "Highly affectionate, lap-loving",
+        "independence": "Enjoys company but not clingy",
+        "intelligence": "Moderately intelligent, enjoys gentle play"
+      },
+      "social_compatibility": {
+        "with_humans": "Loves being near family members",
+        "with_pets": "Good-natured, gets along well",
+        "with_children": "Patient and gentle",
+        "environment": "Thrives in calm, loving homes"
+      },
+      "health_profile": {
+        "lifespan": "12–15+ years",
+        "common_genetic_issues": [
+          "Hypertrophic Cardiomyopathy (HCM)",
+          "Polycystic Kidney Disease (PKD)",
+          "Periodontitis"
+        ],
+        "preventive_care": [
+          "Cardiac and kidney screenings",
+          "Dental care",
+          "Regular vet visits"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing, more during shedding",
+        "bathing": "Only if needed",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "Regular trims",
+        "dental_hygiene": "Essential to prevent periodontitis"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys cozy areas",
+        "toys_and_enrichment": "Soft toys, gentle play items",
+        "temperature_sensitivity": "Prefers warm environments due to coat"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Moderately trainable",
+        "preferred_activities": "Gentle play, lap time",
+        "socialization_needs": "Benefits from early socialization"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Prefers company but adaptable",
+        "exercise_requirements": "Low to moderate exercise needs",
+        "health_monitoring": "Regular heart and kidney checks"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, near family",
+        "sleep_cycle": "Crepuscular with long naps",
+        "activity_vs_rest": "Prefers rest over activity",
+        "comfort_preferences": "Loves warm, cushioned surfaces"
+      }
+    
+    },
+     {
+      "name": "Bombay",
+      "basic_information": {
+        "size": "Medium (males 8–11 lbs, females 6–9 lbs)",
+        "origin": "United States",
+        "lifespan": "Approximately 12–16 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Graceful, muscular",
+        "head_shape": "Rounded with full cheeks",
+        "eye_shape_and_color": "Round, copper or gold",
+        "ear_shape": "Medium, rounded tips",
+        "coat_type": "Short, fine, glossy black",
+        "coat_colors": "Black (including whiskers and pads)",
+        "distinctive_features": "Panther-like appearance"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Playful, energetic but not hyper",
+        "curiosity": "Curious, enjoys exploration",
+        "social_interaction": "Highly social, follows people",
+        "affection_level": "Very affectionate, loves lap time",
+        "independence": "Prefers human company",
+        "intelligence": "Intelligent, enjoys fetch and water play"
+      },
+      "social_compatibility": {
+        "with_humans": "Loves human interaction, 'velcro cat'",
+        "with_pets": "Good with other pets if socialized",
+        "with_children": "Friendly and adaptable",
+        "environment": "Thrives in lively or quiet households"
+      },
+      "health_profile": {
+        "lifespan": "12–16 years",
+        "common_genetic_issues": [
+          "Breathing issues (flat-faced ancestry)",
+          "Eye issues",
+          "Craniofacial defect (rare)",
+          "Obesity"
+        ],
+        "preventive_care": [
+          "Monitor respiratory health",
+          "Weight management",
+          "Routine vet check-ups",
+          "Dental care"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly combing to reduce hairballs",
+        "bathing": "Every few months if oily",
+        "ear_cleaning": "Regular to manage wax",
+        "nail_trimming": "Frequent trims",
+        "dental_hygiene": "Essential for flat-faced breeds"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys cozy areas",
+        "toys_and_enrichment": "Interactive toys, water games",
+        "temperature_sensitivity": "Prefers warm environments"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Moderately trainable",
+        "preferred_activities": "Fetch, interactive play",
+        "socialization_needs": "Early socialization recommended"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Prefers company, may follow owners",
+        "exercise_requirements": "Moderate exercise to prevent obesity",
+        "health_monitoring": "Monitor respiratory and eye health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Near owners, soft beds",
+        "sleep_cycle": "Crepuscular, active at dawn/dusk",
+        "activity_vs_rest": "Balanced play and rest",
+        "comfort_preferences": "Warm, cushioned surfaces"
+      }
+    },
+    {
+      "name": "British Shorthair",
+      "basic_information": {
+        "size": "Large (males 12–18 lbs, females 9–15 lbs)",
+        "origin": "United Kingdom",
+        "lifespan": "Approximately 12–17 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Stocky, cobby, broad-chested",
+        "head_shape": "Round with full cheeks",
+        "eye_shape_and_color": "Large, round, gold or copper (varies with coat)",
+        "ear_shape": "Medium, rounded",
+        "coat_type": "Short, dense, plush with thick undercoat",
+        "coat_colors": "Many colors/patterns (solid blue classic)",
+        "distinctive_features": "Teddy-bear appearance"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, enjoys gentle play",
+        "curiosity": "Mildly curious",
+        "social_interaction": "Tolerant, enjoys company",
+        "affection_level": "Affectionate but not demanding",
+        "independence": "Content to lounge independently",
+        "intelligence": "Intelligent, adaptable"
+      },
+      "social_compatibility": {
+        "with_humans": "Enjoys gentle attention",
+        "with_pets": "Tolerant of other pets",
+        "with_children": "Patient and calm",
+        "environment": "Adaptable to various home sizes"
+      },
+      "health_profile": {
+        "lifespan": "12–17 years",
+        "common_genetic_issues": [
+          "Hypertrophic Cardiomyopathy (HCM)",
+          "Gingivitis",
+          "Urinary issues",
+          "Hemophilia B (rare)",
+          "Obesity"
+        ],
+        "preventive_care": [
+          "Weight monitoring",
+          "Dental cleaning",
+          "Heart screenings",
+          "Regular vet exams"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing, more during shedding",
+        "bathing": "Rarely needed",
+        "ear_cleaning": "Routine checks",
+        "nail_trimming": "As needed",
+        "dental_hygiene": "Regular to prevent gingivitis"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys lounging",
+        "toys_and_enrichment": "Soft toys, scratching posts",
+        "temperature_sensitivity": "Tolerates most climates"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Moderately trainable",
+        "preferred_activities": "Gentle play, lounging",
+        "socialization_needs": "Early socialization beneficial"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Handles alone time well",
+        "exercise_requirements": "Low to moderate exercise",
+        "health_monitoring": "Monitor for heart and urinary issues"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, sunny spots",
+        "sleep_cycle": "Crepuscular with frequent naps",
+        "activity_vs_rest": "Prefers rest over activity",
+        "comfort_preferences": "Cozy, warm surfaces"
+      }
+    },
+    {
+      "name": "Burmese",
+      "basic_information": {
+        "size": "Medium (males 8–12 lbs, females 6–10 lbs)",
+        "origin": "Myanmar (Burma)",
+        "lifespan": "Approximately 10–16 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Compact, muscular, rounded contours",
+        "head_shape": "Round with short muzzle",
+        "eye_shape_and_color": "Large, round, golden amber",
+        "ear_shape": "Small to medium, forward-tilted",
+        "coat_type": "Short, fine, satin-like",
+        "coat_colors": "Sable, blue, chocolate, platinum",
+        "distinctive_features": "Velvet-like coat"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Energetic, playful",
+        "curiosity": "Curious, loves climbing",
+        "social_interaction": "Highly social, follows owners",
+        "affection_level": "Very affectionate, loyal",
+        "independence": "Prefers company, may get lonely",
+        "intelligence": "Highly intelligent, trainable"
+      },
+      "social_compatibility": {
+        "with_humans": "Bonds strongly with family",
+        "with_pets": "Good with pets if introduced properly",
+        "with_children": "Friendly and playful",
+        "environment": "Thrives in attentive households"
+      },
+      "health_profile": {
+        "lifespan": "10–16 years",
+        "common_genetic_issues": [
+          "Type 2 Diabetes",
+          "Hypokalemic Polymyopathy",
+          "Gingivitis",
+          "Corneal Dermoid (rare)",
+          "Flat-chested Kitten Syndrome"
+        ],
+        "preventive_care": [
+          "Regular vet check-ups",
+          "Dental care",
+          "Monitor for diabetes",
+          "Anesthesia sensitivity"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing, occasional wipe-down",
+        "bathing": "As needed to remove oils",
+        "ear_cleaning": "Routine checks",
+        "nail_trimming": "Regular trims",
+        "dental_hygiene": "Essential to reduce gingivitis"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys climbing",
+        "toys_and_enrichment": "Interactive toys, climbing structures",
+        "temperature_sensitivity": "Prefers warm environments"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly trainable, dog-like",
+        "preferred_activities": "Fetch, tricks, exploration",
+        "socialization_needs": "Early socialization recommended"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "May get lonely without attention",
+        "exercise_requirements": "Needs regular play",
+        "health_monitoring": "Monitor for dental and metabolic issues"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Near owners, warm spots",
+        "sleep_cycle": "Crepuscular, active morning/evening",
+        "activity_vs_rest": "High activity with naps",
+        "comfort_preferences": "Soft, warm surfaces"
+      }
+    },
+    {
+      "name": "Chartreux",
+      "basic_information": {
+        "size": "Large (males 12+ lbs, females slightly smaller)",
+        "origin": "France",
+        "lifespan": "Approximately 8–13 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Powerful, muscular, broad-chested",
+        "head_shape": "Round with upturned mouth",
+        "eye_shape_and_color": "Round, copper or orange",
+        "ear_shape": "Rounded, medium",
+        "coat_type": "Mid-to-long, thick, double, water-resistant",
+        "coat_colors": "Blue-gray with silver tips",
+        "distinctive_features": "Quiet smile, woolly coat"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderately active, playful in bursts",
+        "curiosity": "Mildly curious, follows owners",
+        "social_interaction": "Loyal, enjoys gentle play",
+        "affection_level": "Affectionate but not lap-bound",
+        "independence": "More independent than some breeds",
+        "intelligence": "Intelligent, dog-like"
+      },
+      "social_compatibility": {
+        "with_humans": "Loyal, greets owners",
+        "with_pets": "Good with children and pets",
+        "with_children": "Calm and tolerant",
+        "environment": "Adaptable to calm households"
+      },
+      "health_profile": {
+        "lifespan": "8–13 years",
+        "common_genetic_issues": [
+          "Obesity (if inactive)",
+          "Dental issues"
+        ],
+        "preventive_care": [
+          "Monitor diet",
+          "Dental care",
+          "Routine vet check-ups"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Daily or every-other-day brushing",
+        "bathing": "Rarely needed",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "As needed",
+        "dental_hygiene": "Routine dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys lounging",
+        "toys_and_enrichment": "Soft toys, fetch games",
+        "temperature_sensitivity": "Tolerates cooler climates"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Moderately trainable",
+        "preferred_activities": "Fetch, gentle play",
+        "socialization_needs": "Early socialization beneficial"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Handles alone time well",
+        "exercise_requirements": "Moderate exercise to prevent obesity",
+        "health_monitoring": "Monitor weight and dental health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, quiet areas",
+        "sleep_cycle": "Crepuscular with naps",
+        "activity_vs_rest": "Balanced, prefers rest",
+        "comfort_preferences": "Warm, cozy surfaces"
+      }
+    },
+    {
+      "name": "Chausie",
+      "basic_information": {
+        "size": "Large (males 15–25 lbs, females 10–15 lbs)",
+        "origin": "United States (Jungle Cat hybrid)",
+        "lifespan": "Approximately 10–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Long, sleek, muscular",
+        "head_shape": "Wedge-shaped",
+        "eye_shape_and_color": "Almond-shaped, various colors",
+        "ear_shape": "Large, pointed, often tufted",
+        "coat_type": "Short to medium, ticked or spotted",
+        "coat_colors": "Brown ticked tabby, black grizzled tabby, brown classic tabby",
+        "distinctive_features": "Wild appearance, long legs"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Extremely energetic, playful",
+        "curiosity": "Highly curious, loves exploring",
+        "social_interaction": "Sociable, loyal, enjoys play",
+        "affection_level": "Affectionate, bonds strongly",
+        "independence": "Retains some wild independence",
+        "intelligence": "Highly intelligent, trainable"
+      },
+      "social_compatibility": {
+        "with_humans": "Enjoys family interaction",
+        "with_pets": "Strong prey drive, not ideal with small pets",
+        "with_children": "Good with active, older children",
+        "environment": "Best in active, spacious homes"
+      },
+      "health_profile": {
+        "lifespan": "10–15 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Hypertrophic Cardiomyopathy (HCM)"
+        ],
+        "preventive_care": [
+          "Regular vet check-ups",
+          "Monitor joint and heart health"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing",
+        "bathing": "Seldom needed",
+        "ear_cleaning": "Routine checks",
+        "nail_trimming": "Regular trims",
+        "dental_hygiene": "Standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Requires large space for activity",
+        "toys_and_enrichment": "Climbing structures, puzzle toys",
+        "temperature_sensitivity": "Tolerates most climates"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly trainable, leash-trained",
+        "preferred_activities": "Fetch, water play, exploration",
+        "socialization_needs": "Early socialization essential"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Needs companionship or toys",
+        "exercise_requirements": "High exercise needs",
+        "health_monitoring": "Monitor joints and heart"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Elevated perches, soft beds",
+        "sleep_cycle": "Crepuscular, active at dawn/dusk",
+        "activity_vs_rest": "High activity with naps",
+        "comfort_preferences": "Secure, warm spots"
+      }
+    },
+    {
+      "name": "Domestic Longhair",
+      "basic_information": {
+        "size": "Medium to large (8–12 lbs)",
+        "origin": "Global (mixed-breed)",
+        "lifespan": "Approximately 12–18 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Varies (cobby to slender)",
+        "head_shape": "Round or wedge-shaped",
+        "eye_shape_and_color": "Varies, any color",
+        "ear_shape": "Varies, medium",
+        "coat_type": "Long, plush with undercoat",
+        "coat_colors": "Any color or pattern",
+        "distinctive_features": "Highly variable appearance"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, varies by individual",
+        "curiosity": "Mild to moderate curiosity",
+        "social_interaction": "Friendly, adaptable",
+        "affection_level": "Affectionate, varies",
+        "independence": "Moderately independent",
+        "intelligence": "Varies, generally adaptable"
+      },
+      "social_compatibility": {
+        "with_humans": "Good companion, enjoys company",
+        "with_pets": "Generally good-natured",
+        "with_children": "Easygoing, varies by cat",
+        "environment": "Adaptable to most homes"
+      },
+      "health_profile": {
+        "lifespan": "12–18 years",
+        "common_genetic_issues": [
+          "Kidney disease",
+          "Hyperthyroidism",
+          "Obesity"
+        ],
+        "preventive_care": [
+          "Regular vet check-ups",
+          "Weight management",
+          "Indoor safety (FIV/FeLV)"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Daily brushing to prevent mats",
+        "bathing": "Occasionally as needed",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "Routine trims",
+        "dental_hygiene": "Standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, varies",
+        "toys_and_enrichment": "Scratching posts, toys",
+        "temperature_sensitivity": "Prefers warmth due to long coat"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Varies, generally trainable",
+        "preferred_activities": "Play, lounging",
+        "socialization_needs": "Early socialization beneficial"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Varies by individual",
+        "exercise_requirements": "Moderate exercise",
+        "health_monitoring": "Monitor for obesity and kidney issues"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, warm spots",
+        "sleep_cycle": "Crepuscular with naps",
+        "activity_vs_rest": "Balanced, varies",
+        "comfort_preferences": "Cozy, warm surfaces"
+      }
+    },
+    {
+      "name": "Egyptian Mau",
+      "basic_information": {
+        "size": "Medium (6–14 lbs)",
+        "origin": "Egypt",
+        "lifespan": "Approximately 12–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Elegant, athletic, muscular",
+        "head_shape": "Wedge-shaped with 'M' marking",
+        "eye_shape_and_color": "Large, gooseberry-green",
+        "ear_shape": "Medium, pointed",
+        "coat_type": "Short to medium, spotted",
+        "coat_colors": "Silver, bronze, smoke, tabby varieties",
+        "distinctive_features": "Random arrowhead spots, mascara stripes"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Very active, excellent jumper",
+        "curiosity": "Highly inquisitive, loves exploring",
+        "social_interaction": "Affectionate, enjoys family",
+        "affection_level": "Devoted, seeks human company",
+        "independence": "Moderately independent",
+        "intelligence": "Intelligent, loves fetch"
+      },
+      "social_compatibility": {
+        "with_humans": "Strongly attached to owners",
+        "with_pets": "Good with socialized pets",
+        "with_children": "Gentle, playful",
+        "environment": "Thrives in active homes"
+      },
+      "health_profile": {
+        "lifespan": "12–15 years",
+        "common_genetic_issues": [
+          "Congenital Myopathies",
+          "Neonatal Isoerythrolysis",
+          "Urate Kidney Stones",
+          "Pyruvate Kinase Deficiency"
+        ],
+        "preventive_care": [
+          "Monitor urinary and kidney health",
+          "Regular vet check-ups",
+          "Genetic screening"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing, more in spring",
+        "bathing": "Rarely needed",
+        "ear_cleaning": "Weekly checks",
+        "nail_trimming": "Monthly trims",
+        "dental_hygiene": "Standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Needs space for jumping, running",
+        "toys_and_enrichment": "Fetch toys, water play",
+        "temperature_sensitivity": "Tolerates most climates"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent, trainable",
+        "preferred_activities": "Fetch, chasing, water play",
+        "socialization_needs": "Early socialization recommended"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Prefers company",
+        "exercise_requirements": "High exercise needs",
+        "health_monitoring": "Monitor kidney and muscle health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Elevated perches, soft beds",
+        "sleep_cycle": "Crepuscular, active dawn/dusk",
+        "activity_vs_rest": "High activity with naps",
+        "comfort_preferences": "Warm, secure spots"
+      }
+    },
+    {
+      "name": "Exotic Shorthair",
+      "basic_information": {
+        "size": "Medium-to-large (males 7–14 lbs, females 6–10 lbs)",
+        "origin": "United States",
+        "lifespan": "Approximately 15+ years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Stout, stocky, heavy-boned",
+        "head_shape": "Flat, round, brachycephalic",
+        "eye_shape_and_color": "Large, round, various colors",
+        "ear_shape": "Small, rounded",
+        "coat_type": "Short, dense, plush",
+        "coat_colors": "Many (solids, tabbies, calicos, pointed)",
+        "distinctive_features": "Smushed face, Persian-like"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Low to moderate, relaxed",
+        "curiosity": "Mildly curious",
+        "social_interaction": "Sociable, enjoys cuddling",
+        "affection_level": "Very affectionate, lap cat",
+        "independence": "Content to relax",
+        "intelligence": "Moderately intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Loves human company",
+        "with_pets": "Gentle with other pets",
+        "with_children": "Tolerant, gentle",
+        "environment": "Thrives in calm homes"
+      },
+      "health_profile": {
+        "lifespan": "15+ years",
+        "common_genetic_issues": [
+          "Brachycephalic Syndrome",
+          "Polycystic Kidney Disease (PKD)",
+          "Hypertrophic Cardiomyopathy (HCM)",
+          "Tear Staining",
+          "Dental Crowding"
+        ],
+        "preventive_care": [
+          "Heart and kidney screenings",
+          "Weight control",
+          "Dental care",
+          "Respiratory monitoring"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing",
+        "bathing": "Occasionally if needed",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "Monthly trims",
+        "dental_hygiene": "Daily facial cleaning, dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys lounging",
+        "toys_and_enrichment": "Soft toys, gentle play",
+        "temperature_sensitivity": "Prefers warm environments"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Moderately trainable",
+        "preferred_activities": "Gentle play, cuddling",
+        "socialization_needs": "Early socialization beneficial"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Prefers company",
+        "exercise_requirements": "Low exercise needs",
+        "health_monitoring": "Monitor respiratory and kidney health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, near owners",
+        "sleep_cycle": "Crepuscular with long naps",
+        "activity_vs_rest": "Prefers rest",
+        "comfort_preferences": "Warm, cushioned surfaces"
+      }
+    },
+    {
+      "name": "Himalayan",
+      "basic_information": {
+        "size": "Medium-to-large (8–12 lbs)",
+        "origin": "United States (Persian-Siamese cross)",
+        "lifespan": "Approximately 12–17 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Stocky, short-legged",
+        "head_shape": "Round, flat, brachycephalic",
+        "eye_shape_and_color": "Large, round, blue",
+        "ear_shape": "Small, rounded",
+        "coat_type": "Long, thick, silky",
+        "coat_colors": "Colorpoint (seal, blue, chocolate, lilac, etc.)",
+        "distinctive_features": "Flattened face, pointed pattern"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Low, enjoys lounging",
+        "curiosity": "Mildly curious",
+        "social_interaction": "Sociable, loves routine",
+        "affection_level": "Affectionate, enjoys cuddling",
+        "independence": "Content with calm environments",
+        "intelligence": "Moderately intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Loves gentle handling",
+        "with_pets": "Tolerant with calm pets",
+        "with_children": "Good with gentle children",
+        "environment": "Best in quiet, predictable homes"
+      },
+      "health_profile": {
+        "lifespan": "12–17 years",
+        "common_genetic_issues": [
+          "Polycystic Kidney Disease (PKD)",
+          "Hypertrophic Cardiomyopathy (HCM)",
+          "Brachycephalic Syndrome",
+          "Dental issues",
+          "Obesity"
+        ],
+        "preventive_care": [
+          "Renal and heart screenings",
+          "Dental care",
+          "Weight management",
+          "Respiratory monitoring"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Daily brushing to prevent mats",
+        "bathing": "Monthly or as needed",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "Regular trims",
+        "dental_hygiene": "Daily eye cleaning, dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys cozy areas",
+        "toys_and_enrichment": "Soft toys, gentle play",
+        "temperature_sensitivity": "Prefers warm environments"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Moderately trainable",
+        "preferred_activities": "Gentle play, lounging",
+        "socialization_needs": "Early socialization beneficial"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Prefers company",
+        "exercise_requirements": "Low exercise needs",
+        "health_monitoring": "Monitor respiratory and kidney health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, near owners",
+        "sleep_cycle": "Crepuscular with long naps",
+        "activity_vs_rest": "Prefers rest",
+        "comfort_preferences": "Warm, cushioned surfaces"
+      }
+    },
+    {
+      "name": "Japanese Bobtail",
+      "basic_information": {
+        "size": "Medium (6–10 lbs, males larger)",
+        "origin": "Japan",
+        "lifespan": "Approximately 15–18 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Slender, muscular",
+        "head_shape": "Triangular with high cheekbones",
+        "eye_shape_and_color": "Almond-shaped, gold or blue",
+        "ear_shape": "Large, upright",
+        "coat_type": "Short or long, silky",
+        "coat_colors": "Varied (calico common, solid, tabby)",
+        "distinctive_features": "Pom-pom tail"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Active, playful",
+        "curiosity": "Curious, loves exploration",
+        "social_interaction": "Sociable, follows owners",
+        "affection_level": "Affectionate, enjoys attention",
+        "independence": "Moderately independent",
+        "intelligence": "Intelligent, loves puzzles"
+      },
+      "social_compatibility": {
+        "with_humans": "Enjoys human interaction",
+        "with_pets": "Good with pets, enjoys water",
+        "with_children": "Playful and gentle",
+        "environment": "Thrives in active homes"
+      },
+      "health_profile": {
+        "lifespan": "15–18 years",
+        "common_genetic_issues": [
+          "Deafness (rare, white cats)"
+        ],
+        "preventive_care": [
+          "Eye and dental checks",
+          "Routine vet care"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing (short), more for longhair",
+        "bathing": "Rarely needed",
+        "ear_cleaning": "Occasional checks",
+        "nail_trimming": "As needed",
+        "dental_hygiene": "Standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys play areas",
+        "toys_and_enrichment": "Interactive toys, fetch games",
+        "temperature_sensitivity": "Tolerates most climates"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent, trainable",
+        "preferred_activities": "Fetch, puzzles, water play",
+        "socialization_needs": "Early socialization recommended"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Prefers company",
+        "exercise_requirements": "Moderate exercise needs",
+        "health_monitoring": "Monitor for deafness"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, near owners",
+        "sleep_cycle": "Crepuscular, active dawn/dusk",
+        "activity_vs_rest": "Balanced activity and rest",
+        "comfort_preferences": "Warm, cozy surfaces"
+      }
+    },
+    {
+      "name": "Khao Manee",
+      "basic_information": {
+        "size": "Medium (8–12 lbs, males larger)",
+        "origin": "Thailand",
+        "lifespan": "Approximately 10–12 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Athletic, oriental build",
+        "head_shape": "Wedge-shaped",
+        "eye_shape_and_color": "Round, blue, green, or odd-eyed",
+        "ear_shape": "Large, upright",
+        "coat_type": "Short, silky, white",
+        "coat_colors": "Pure white",
+        "distinctive_features": "Striking eyes, white coat"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Very active, playful",
+        "curiosity": "Highly inquisitive",
+        "social_interaction": "Sociable, demands attention",
+        "affection_level": "Very affectionate",
+        "independence": "Tolerates some alone time",
+        "intelligence": "Intelligent, quick learner"
+      },
+      "social_compatibility": {
+        "with_humans": "Thrives on interaction",
+        "with_pets": "Sociable with socialization",
+        "with_children": "Good with experienced owners",
+        "environment": "Best in active, attentive homes"
+      },
+      "health_profile": {
+        "lifespan": "10–12 years",
+        "common_genetic_issues": [
+          "Deafness (especially blue-eyed)"
+        ],
+        "preventive_care": [
+          "Screen for deafness",
+          "Routine vet care"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing",
+        "bathing": "As needed (white fur shows dirt)",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "Regular trims",
+        "dental_hygiene": "Standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys play areas",
+        "toys_and_enrichment": "Interactive toys, exploration",
+        "temperature_sensitivity": "Sun protection needed"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent, trainable",
+        "preferred_activities": "Play, learning tricks",
+        "socialization_needs": "Early socialization essential"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Prefers company",
+        "exercise_requirements": "High exercise needs",
+        "health_monitoring": "Monitor for deafness"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, near owners",
+        "sleep_cycle": "Crepuscular, active dawn/dusk",
+        "activity_vs_rest": "High activity with naps",
+        "comfort_preferences": "Warm, secure spots"
+      }
+    },
+    {
+      "name": "Kurilian Bobtail",
+      "basic_information": {
+        "size": "Large (males 12–17 lbs, females 8–12 lbs)",
+        "origin": "Russia (Kuril Islands)",
+        "lifespan": "Approximately 12–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Stocky, muscular",
+        "head_shape": "Round",
+        "eye_shape_and_color": "Almond-shaped, green or gold",
+        "ear_shape": "Medium, rounded",
+        "coat_type": "Short or semi-long, dense",
+        "coat_colors": "Tabby, tortoiseshell, brindle, calico",
+        "distinctive_features": "Pom-pom tail"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Active, playful",
+        "curiosity": "Curious, enjoys chasing",
+        "social_interaction": "Sociable, friendly",
+        "affection_level": "Affectionate but independent",
+        "independence": "Moderately independent",
+        "intelligence": "Intelligent, good hunter"
+      },
+      "social_compatibility": {
+        "with_humans": "Enjoys family interaction",
+        "with_pets": "Friendly with cats and dogs",
+        "with_children": "Tolerant, playful",
+        "environment": "Adaptable to various homes"
+      },
+      "health_profile": {
+        "lifespan": "12–15 years",
+        "common_genetic_issues": [
+          "Polycystic Kidney Disease (PKD, from Siberian heritage)"
+        ],
+        "preventive_care": [
+          "Kidney screenings",
+          "Monitor for injuries",
+          "Routine vet care"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly (short), 2–3 times/week (semi-long)",
+        "bathing": "Rarely needed",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "Routine trims",
+        "dental_hygiene": "Standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys play",
+        "toys_and_enrichment": "Chasing toys, scratching posts",
+        "temperature_sensitivity": "Tolerates cooler climates"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Moderately trainable",
+        "preferred_activities": "Chasing, hunting games",
+        "socialization_needs": "Early socialization beneficial"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Handles alone time well",
+        "exercise_requirements": "Moderate exercise",
+        "health_monitoring": "Monitor for kidney issues"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, quiet areas",
+        "sleep_cycle": "Crepuscular with naps",
+        "activity_vs_rest": "Balanced activity and rest",
+        "comfort_preferences": "Warm, cozy surfaces"
+      }
+    },
+    {
+      "name": "LaPerm",
+      "basic_information": {
+        "size": "Medium (8–12 lbs)",
+        "origin": "United States",
+        "lifespan": "Approximately 10–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Medium, balanced",
+        "head_shape": "Rounded",
+        "eye_shape_and_color": "Large, expressive, various colors",
+        "ear_shape": "Medium, rounded",
+        "coat_type": "Curly, short or long, wavy",
+        "coat_colors": "Any color/pattern",
+        "distinctive_features": "Curly coat, curly whiskers"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Lively, playful",
+        "curiosity": "Curious, enjoys exploration",
+        "social_interaction": "Friendly, loves attention",
+        "affection_level": "Very affectionate, enjoys lap time",
+        "independence": "Tolerates some alone time",
+        "intelligence": "Intelligent, kitten-like"
+      },
+      "social_compatibility": {
+        "with_humans": "Loves being handled",
+        "with_pets": "Good with other pets",
+        "with_children": "Gentle, playful",
+        "environment": "Thrives in interactive homes"
+      },
+      "health_profile": {
+        "lifespan": "10–15 years",
+        "common_genetic_issues": [
+          "Dental disease",
+          "Rare hair loss"
+        ],
+        "preventive_care": [
+          "Dental care",
+          "Routine vet check-ups"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Comb 1–2 times/week",
+        "bathing": "Occasional to maintain curls",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "As needed",
+        "dental_hygiene": "Standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys play",
+        "toys_and_enrichment": "Interactive toys, scratching posts",
+        "temperature_sensitivity": "Tolerates most climates"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent, trainable",
+        "preferred_activities": "Play, exploration",
+        "socialization_needs": "Early socialization beneficial"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Tolerates alone time with enrichment",
+        "exercise_requirements": "Moderate exercise",
+        "health_monitoring": "Monitor dental health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, near owners",
+        "sleep_cycle": "Crepuscular with naps",
+        "activity_vs_rest": "Balanced activity and rest",
+        "comfort_preferences": "Warm, cozy surfaces"
+      }
+    },
+    {
+      "name": "Maine Coon",
+      "basic_information": {
+        "size": "Very large (males 12–20+ lbs, females 8–12 lbs)",
+        "origin": "United States (Maine)",
+        "lifespan": "Approximately decadent 10–13 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Rectangular, muscular, broad-chested",
+        "head_shape": "Medium to large, high cheekbones",
+        "eye_shape_and_color": "Large, slightly oval, green, gold, or copper",
+        "ear_shape": "Tufted, lynx-tipped",
+        "coat_type": "Long, shaggy, water-repellent",
+        "coat_colors": "Any (brown tabby common)",
+        "distinctive_features": "Bushy plume tail, tufted paws"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Playful, moderately active",
+        "curiosity": "Curious, enjoys climbing",
+        "social_interaction": "Friendly, sociable",
+        "affection_level": "Affectionate, not overly demanding",
+        "independence": "Moderately independent",
+        "intelligence": "Intelligent, playful"
+      },
+      "social_compatibility": {
+        "with_humans": "Enjoys family company",
+        "with_pets": "Good with cats, dogs, livestock",
+        "with_children": "Gentle, playful",
+        "environment": "Adaptable, enjoys spacious homes"
+      },
+      "health_profile": {
+        "lifespan": "10–13 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Hypertrophic Cardiomyopathy (HCM)",
+          "Spinal Muscular Atrophy",
+          "Polycystic Kidney Disease (rare)"
+        ],
+        "preventive_care": [
+          "Heart and joint screenings",
+          "Weight control",
+          "Regular vet check-ups"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Brush 2–3 times/week",
+        "bathing": "If matting occurs",
+        "ear_cleaning": "Regular due to tufts",
+        "nail_trimming": "Frequent trims",
+        "dental_hygiene": "Standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Needs space for climbing",
+        "toys_and_enrichment": "Climbing structures, water toys",
+        "temperature_sensitivity": "Tolerates cooler climates"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent, trainable",
+        "preferred_activities": "Climbing, water play",
+        "socialization_needs": "Early socialization beneficial"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Handles alone time well",
+        "exercise_requirements": "Moderate exercise",
+        "health_monitoring": "Monitor joints and heart"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Elevated perches, soft beds",
+        "sleep_cycle": "Crepuscular, active dawn/dusk",
+        "activity_vs_rest": "Balanced activity and rest",
+        "comfort_preferences": "Warm, spacious surfaces"
+      }
+    },
+    {
+      "name": "Manx",
+      "basic_information": {
+        "size": "Medium (8–12 lbs)",
+        "origin": "Isle of Man",
+        "lifespan": "Approximately 8–14 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Cobby, heavy-boned, muscular",
+        "head_shape": "Round",
+        "eye_shape_and_color": "Medium, round, various colors",
+        "ear_shape": "Medium, rounded",
+        "coat_type": "Dense double, short or long",
+        "coat_colors": "All except pointed",
+        "distinctive_features": "Tailless or short tail, rabbit-like gait"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Active, playful",
+        "curiosity": "Curious, enjoys games",
+        "social_interaction": "Friendly, outgoing",
+        "affection_level": "Affectionate, loyal",
+        "independence": "Content alone but prefers company",
+        "intelligence": "Intelligent, dog-like"
+      },
+      "social_compatibility": {
+        "with_humans": "Loyal, enjoys family",
+        "with_pets": "Good with dogs and pets",
+        "with_children": "Playful, tolerant",
+        "environment": "Adaptable, enjoys interaction"
+      },
+      "health_profile": {
+        "lifespan": "8–14 years",
+        "common_genetic_issues": [
+          "Manx Syndrome (spinal deformities)",
+          "Hip Dysplasia",
+          "Obstipation"
+        ],
+        "preventive_care": [
+          "Spinal and urinary monitoring",
+          "Regular vet check-ups",
+          "Responsible breeding"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly (short), 2–3 times/week (long)",
+        "bathing": "Rarely needed",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "Routine trims",
+        "dental_hygiene": "Trim rear fur, dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys play",
+        "toys_and_enrichment": "Fetch toys, chasing games",
+        "temperature_sensitivity": "Tolerates most climates"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent, trainable",
+        "preferred_activities": "Fetch, chasing",
+        "socialization_needs": "Early socialization recommended"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "May become jealous",
+        "exercise_requirements": "Moderate exercise",
+        "health_monitoring": "Monitor for spinal issues"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, near owners",
+        "sleep_cycle": "Crepuscular, active dawn/dusk",
+        "activity_vs_rest": "Balanced activity and rest",
+        "comfort_preferences": "Warm, cozy surfaces"
+      }
+    },
+    {
+      "name": "Neva Masquerade",
+      "basic_information": {
+        "size": "Large (8–17 lbs)",
+        "origin": "Russia",
+        "lifespan": "Approximately 11–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Large, strong, agile",
+        "head_shape": "Round",
+        "eye_shape_and_color": "Round, blue or odd-eyed",
+        "ear_shape": "Tufted, medium",
+        "coat_type": "Dense triple, long",
+        "coat_colors": "Colorpoint (seal, blue, etc.)",
+        "distinctive_features": "Bushy tail, tufted ears"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Playful, energetic",
+        "curiosity": "Mischievous, curious",
+        "social_interaction": "Friendly, outgoing",
+        "affection_level": "Affectionate, enjoys cuddling",
+        "independence": "Moderately independent",
+        "intelligence": "Intelligent, dog-like"
+      },
+      "social_compatibility": {
+        "with_humans": "Enjoys family life",
+        "with_pets": "Good with pets",
+        "with_children": "Friendly, playful",
+        "environment": "Thrives in interactive homes"
+      },
+      "health_profile": {
+        "lifespan": "11–15 years",
+        "common_genetic_issues": [
+          "Hypertrophic Cardiomyopathy (HCM)",
+          "Juvenile Genetic Myopathy (rare)"
+        ],
+        "preventive_care": [
+          "Cardiac screenings",
+          "Regular vet check-ups"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Brush 2–3 times/week, daily in shedding",
+        "bathing": "Occasionally if matting",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "Routine trims",
+        "dental_hygiene": "Standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Needs space for play",
+        "toys_and_enrichment": "Fetch toys, leash walking",
+        "temperature_sensitivity": "Tolerates cooler climates"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent, trainable",
+        "preferred_activities": "Fetch, leash walking",
+        "socialization_needs": "Early socialization recommended"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Prefers company",
+        "exercise_requirements": "Moderate exercise",
+        "health_monitoring": "Monitor heart health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, near owners",
+        "sleep_cycle": "Crepuscular, active dawn/dusk",
+        "activity_vs_rest": "Balanced activity and rest",
+        "comfort_preferences": "Warm, cozy surfaces"
+      }
+    },
+    {
+      "name": "Ocicat",
+      "basic_information": {
+        "size": "Large (9–15 lbs)",
+        "origin": "United States",
+        "lifespan": "Approximately 12–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Athletic, sleek",
+        "head_shape": "Wedge-shaped",
+        "eye_shape_and_color": "Alert, gold or green",
+        "ear_shape": "Medium, rounded",
+        "coat_type": "Short, satin-like, spotted",
+        "coat_colors": "Tawny, brown, chocolate, blue, etc.",
+        "distinctive_features": "Ocelot-like spots"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Playful, active",
+        "curiosity": "Curious, loves family activities",
+        "social_interaction": "Highly social, outgoing",
+        "affection_level": "Affectionate, involved",
+        "independence": "Moderately independent",
+        "intelligence": "Intelligent, needs stimulation"
+      },
+      "social_compatibility": {
+        "with_humans": "Loves family interaction",
+        "with_pets": "Friendly with cats, less prey drive",
+        "with_children": "Tolerant, playful",
+        "environment": "Thrives in active homes"
+      },
+      "health_profile": {
+        "lifespan": "12–15 years",
+        "common_genetic_issues": [
+          "Urinary issues",
+          "Obesity (if overfed)"
+        ],
+        "preventive_care": [
+          "Monitor diet",
+          "Regular vet check-ups"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing",
+        "bathing": "Rarely needed",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "Routine trims",
+        "dental_hygiene": "Standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Needs space for play",
+        "toys_and_enrichment": "Interactive toys, playtime",
+        "temperature_sensitivity": "Tolerates most climates"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent, trainable",
+        "preferred_activities": "Play, mental stimulation",
+        "socialization_needs": "Early socialization beneficial"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Prefers company",
+        "exercise_requirements": "Moderate exercise",
+        "health_monitoring": "Monitor diet and urinary health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, near owners",
+        "sleep_cycle": "Crepuscular, active dawn/dusk",
+        "activity_vs_rest": "Balanced activity and rest",
+        "comfort_preferences": "Warm, cozy surfaces"
+      }
+    },
+    {
+      "name": "Peterbald",
+      "basic_information": {
+        "size": "Medium to large (7–12 lbs)",
+        "origin": "Russia",
+        "lifespan": "Approximately 10–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Slender, elegant, oriental",
+        "head_shape": "Wedge-shaped",
+        "eye_shape_and_color": "Large, lemon-shaped, various colors",
+        "ear_shape": "Large, triangular",
+        "coat_type": "Hairless or sparse (bald, flocked, velour, brush)",
+        "coat_colors": "Pale or spotted skin",
+        "distinctive_features": "Wrinkled skin, webbed toes"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Playful, lively",
+        "curiosity": "Highly curious",
+        "social_interaction": "Very social, loves attention",
+        "affection_level": "Highly affectionate, lap cat",
+        "independence": "Needs interaction",
+        "intelligence": "Intelligent, learns tricks"
+      },
+      "social_compatibility": {
+        "with_humans": "Thrives on attention",
+        "with_pets": "Good with gentle pets",
+        "with_children": "Good with gentle children",
+        "environment": "Best in busy, warm homes"
+      },
+      "health_profile": {
+        "lifespan": "10–15 years",
+        "common_genetic_issues": [
+          "Sunburn",
+          "Skin irritation",
+          "Progressive Retinal Atrophy (PRA)",
+          "Hypertrophic Cardiomyopathy (HCM)"
+        ],
+        "preventive_care": [
+          "Indoor living",
+          "Skin care",
+          "Heart screenings",
+          "Regular vet check-ups"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly bathing for hairless",
+        "bathing": "Weekly to remove oil",
+        "ear_cleaning": "Frequent wax cleaning",
+        "nail_trimming": "Regular trims",
+        "dental_hygiene": "Standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys play",
+        "toys_and_enrichment": "Interactive toys, tricks",
+        "temperature_sensitivity": "Needs warmth, no sun exposure"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly trainable",
+        "preferred_activities": "Tricks, interactive games",
+        "socialization_needs": "Early socialization essential"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Needs company",
+        "exercise_requirements": "Moderate exercise",
+        "health_monitoring": "Monitor skin and heart"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Warm beds, under covers",
+        "sleep_cycle": "Crepuscular, active dawn/dusk",
+        "activity_vs_rest": "High activity with naps",
+        "comfort_preferences": "Warm, secure spots"
+      }
+    },
+    {
+      "name": "Persian",
+      "basic_information": {
+        "size": "Medium-to-large (7–12 lbs)",
+        "origin": "Iran (Persia)",
+        "lifespan": "Approximately 12–16 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Cobby, short-legged",
+        "head_shape": "Round, flat, brachycephalic",
+        "eye_shape_and_color": "Large, round, copper or blue",
+        "ear_shape": "Small, low-set",
+        "coat_type": "Long, thick, flowing",
+        "coat_colors": "All colors/patterns",
+        "distinctive_features": "Pushed-in face, fluffy mane"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Low, placid",
+        "curiosity": "Mildly curious",
+        "social_interaction": "Quiet, enjoys calm environments",
+        "affection_level": "Affectionate, lap-loving",
+        "independence": "Content with routine",
+        "intelligence": "Moderately intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Loves gentle handling",
+        "with_pets": "Good with calm pets",
+        "with_children": "Good with calm children",
+        "environment": "Best in quiet homes"
+      },
+      "health_profile": {
+        "lifespan": "12–16 years",
+        "common_genetic_issues": [
+          "Brachycephalic Syndrome",
+          "Polycystic Kidney Disease (PKD)",
+          "Hypertrophic Cardiomyopathy (HCM)",
+          "Progressive Retinal Atrophy (PRA)",
+          "Dental Malocclusion"
+        ],
+        "preventive_care": [
+          "Heart and kidney screenings",
+          "Dental care",
+          "Respiratory monitoring",
+          "Weight management"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Daily brushing and combing",
+        "bathing": "Weekly",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "Weekly trims",
+        "dental_hygiene": "Daily facial cleaning, dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys cozy areas",
+        "toys_and_enrichment": "Soft toys, gentle play",
+        "temperature_sensitivity": "Prefers warm environments"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Moderately trainable",
+        "preferred_activities": "Gentle play, lounging",
+        "socialization_needs": "Early socialization beneficial"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Prefers company",
+        "exercise_requirements": "Low exercise needs",
+        "health_monitoring": "Monitor respiratory and kidney health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, near owners",
+        "sleep_cycle": "Crepuscular with long naps",
+        "activity_vs_rest": "Prefers rest",
+        "comfort_preferences": "Warm, cushioned surfaces"
+      }
+    },
+    {
+      "name": "Ragamuffin",
+      "basic_information": {
+        "size": "Large (males 12–20+ lbs, females 8–15+ lbs)",
+        "origin": "United States",
+        "lifespan": "Approximately 12–16 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Heavy-boned, broad",
+        "head_shape": "Broad, rounded",
+        "eye_shape_and_color": "Large, expressive, any color",
+        "ear_shape": "Medium, rounded",
+        "coat_type": "Plush, semi-long",
+        "coat_colors": "Varied (white, black, blue, red, bicolor, etc.)",
+        "distinctive_features": "Teddy bear appearance"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Low-key, enjoys play",
+        "curiosity": "Mildly curious",
+        "social_interaction": "Sociable, family-friendly",
+        "affection_level": "Very affectionate, loves cuddling",
+        "independence": "Not demanding",
+        "intelligence": "Intelligent, learns tricks"
+      },
+      "social_compatibility": {
+        "with_humans": "Loves attention, floppy",
+        "with_pets": "Good with pets",
+        "with_children": "Friendly, gentle",
+        "environment": "Thrives in loving homes"
+      },
+      "health_profile": {
+        "lifespan": "12–16 years",
+        "common_genetic_issues": [
+          "Hypertrophic Cardiomyopathy (HCM)",
+          "Obesity"
+        ],
+        "preventive_care": [
+          "Monitor diet",
+          "Heart screenings",
+          "Regular vet check-ups"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly combing",
+        "bathing": "As needed",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "Routine trims",
+        "dental_hygiene": "Standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys cozy areas",
+        "toys_and_enrichment": "Soft toys, leash walking",
+        "temperature_sensitivity": "Prefers warm environments"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent, trainable",
+        "preferred_activities": "Tricks, gentle play",
+        "socialization_needs": "Early socialization beneficial"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Prefers company",
+        "exercise_requirements": "Low to moderate exercise",
+        "health_monitoring": "Monitor weight and heart"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, near owners",
+        "sleep_cycle": "Crepuscular with long naps",
+        "activity_vs_rest": "Prefers rest",
+        "comfort_preferences": "Warm, cushioned surfaces"
+      }
+    },
+    {
+      "name": "Ragdoll",
+      "basic_information": {
+        "size": "Very large (males 12–20+ lbs, females 8–15 lbs)",
+        "origin": "United States",
+        "lifespan": "Approximately 12–17 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Long-bodied, muscular",
+        "head_shape": "Broad, round",
+        "eye_shape_and_color": "Large, oval, deep blue",
+        "ear_shape": "Large, tufted",
+        "coat_type": "Semi-long, silky",
+        "coat_colors": "Colorpoint (seal, blue, chocolate, lilac, red, cream)",
+        "distinctive_features": "White mitts, deep blue eyes"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, enjoys play",
+        "curiosity": "Mildly curious",
+        "social_interaction": "Sociable, loves family",
+        "affection_level": "Very affectionate, often floppy",
+        "independence": "Prefers company",
+        "intelligence": "Intelligent, gentle"
+      },
+      "social_compatibility": {
+        "with_humans": "Loves human interaction",
+        "with_pets": "Good with calm pets",
+        "with_children": "Gentle, patient",
+        "environment": "Thrives in calm, loving homes"
+      },
+      "health_profile": {
+        "lifespan": "12–17 years",
+        "common_genetic_issues": [
+          "Hypertrophic Cardiomyopathy (HCM)",
+          "Polycystic Kidney Disease (PKD)",
+          "Obesity"
+        ],
+        "preventive_care": [
+          "Heart and kidney screenings",
+          "Weight management",
+          "Regular vet check-ups"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Brush 2–3 times/week",
+        "bathing": "Occasionally if needed",
+        "ear_cleaning": "Regular checks",
+        "nail_trimming": "Routine trims",
+        "dental_hygiene": "Standard dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space, enjoys cozy areas",
+        "toys_and_enrichment": "Soft toys, gentle play",
+        "temperature_sensitivity": "Prefers warm environments"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent, trainable",
+        "preferred_activities": "Gentle play, interaction",
+        "socialization_needs": "Early socialization recommended"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Prefers company",
+        "exercise_requirements": "Moderate exercise",
+        "health_monitoring": "Monitor heart and kidney health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12–16 hours per day",
+        "preferred_sleeping_spots": "Soft beds, near owners",
+        "sleep_cycle": "Crepuscular with long naps",
+        "activity_vs_rest": "Balanced activity and rest",
+        "comfort_preferences": "Warm, cushioned surfaces"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2822 @@
+{
+  "dog_breeds": [
+    {
+      "name": "Golden Retriever",
+      "basic_information": {
+        "size": "Medium to Large (Males: 65-75 lbs, Females: 55-65 lbs)",
+        "origin": "Scotland",
+        "lifespan": "10-12 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Symmetrical, powerful, active, sturdy",
+        "head_shape": "Broad skull, well-defined stop",
+        "eye_shape_and_color": "Friendly, intelligent expression; dark brown eyes",
+        "ear_shape": "Medium-sized, set high and hanging close to cheek",
+        "coat_type": "Dense, water-repellent outer coat; thick undercoat",
+        "coat_colors": "Various shades of golden (light golden to dark golden)",
+        "distinctive_features": "Feathering on legs, tail, and belly; characteristic gait"
+      },
+      "personality_and_behavior": {
+        "activity_level": "High, needs regular exercise",
+        "curiosity": "Highly curious and eager to explore",
+        "social_interaction": "Friendly, outgoing, generally good with everyone",
+        "affection_level": "Very affectionate, loves being part of the family",
+        "independence": "Does not do well when left alone for long periods",
+        "intelligence": "Highly intelligent, easy to train, eager to please"
+      },
+      "social_compatibility": {
+        "with_humans": "Excellent with families, good with strangers",
+        "with_pets": "Generally good with other dogs and pets",
+        "with_children": "Patient and tolerant, excellent with children",
+        "environment": "Adaptable to various living situations if exercised sufficiently"
+      },
+      "health_profile": {
+        "lifespan": "10-12 years",
+        "common_genetic_issues": [
+          "Hip and Elbow Dysplasia",
+          "Cancer (especially Hemangiosarcoma, Lymphoma, Mast Cell Tumors)",
+          "Eye Conditions (e.g., Progressive Retinal Atrophy, Cataracts)",
+          "Heart Conditions (e.g., Subvalvular Aortic Stenosis)",
+          "Bloat"
+        ],
+        "preventive_care": [
+          "Regular vet check-ups",
+          "Hip and elbow evaluations (OFA/PennHIP)",
+          "Eye exams",
+          "Cardiac exams",
+          "Balanced diet and exercise to maintain healthy weight"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing (daily during shedding seasons)",
+        "bathing": "Every 4-6 weeks or as needed",
+        "ear_cleaning": "Weekly to prevent infections",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Regular brushing and dental check-ups"
+      },
+      "environmental_needs": {
+        "space": "Needs ample space for exercise; a yard is ideal",
+        "toys_and_enrichment": "Chew toys, puzzle toys, retrieving toys",
+        "temperature_sensitivity": "Tolerant of various climates but can overheat in extreme heat"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly trainable, responds well to positive reinforcement",
+        "preferred_activities": "Fetch, swimming, obedience training, agility",
+        "socialization_needs": "Early and continuous socialization is crucial"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Prone to separation anxiety if left alone for long periods",
+        "exercise_requirements": "High energy levels require significant daily exercise",
+        "health_monitoring": "Prone to certain health issues, requires vigilant monitoring"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable beds, cool spots, near family members",
+        "sleep_cycle": "Alternates between short naps and longer sleep periods",
+        "activity_vs_rest": "High activity followed by periods of deep rest",
+        "comfort_preferences": "Prefers soft, supportive surfaces; enjoys cuddling"
+      }
+    },
+    {
+      "name": "Afghan Hound",
+      "basic_information": {
+        "size": "Tall and elegant (25–27″ tall, 50–60 lbs)",
+        "origin": "Afghanistan",
+        "lifespan": "Approximately 12–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Lean, elegant, and agile",
+        "head_shape": "Narrow head, long muzzle, arched neck",
+        "eye_shape_and_color": "Typically dark, almond-shaped",
+        "ear_shape": "Long, flowing, feathered",
+        "coat_type": "Long, flowing silky coat",
+        "coat_colors": "Various colors (e.g., black, brindle, cream, fawn, red, silver, white)",
+        "distinctive_features": "Long, silky coat; dignified appearance; feathered tail"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, enjoys outdoor runs",
+        "curiosity": "Independent and curious",
+        "social_interaction": "Aloof, independent, and dignified. Affectionate with family but often reserved with strangers.",
+        "affection_level": "Affectionate with family but not overtly clingy",
+        "independence": "High; has a cat-like personality – graceful yet stubborn.",
+        "intelligence": "Intelligent but often stubborn, requires patient training"
+      },
+      "social_compatibility": {
+        "with_humans": "Affectionate with family, reserved with strangers",
+        "with_pets": "Has a strong prey drive, careful introductions needed with smaller pets",
+        "with_children": "Generally good with older, respectful children",
+        "environment": "Requires secure outdoor space for exercise, not ideal for small apartments"
+      },
+      "health_profile": {
+        "lifespan": "12–15 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Hypothyroidism",
+          "Cataracts",
+          "Sensitivity to Anesthesia"
+        ],
+        "preventive_care": [
+          "Regular vet check-ups",
+          "Monitor joints and eyes",
+          "Careful consideration of anesthesia type/dosage"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "High. Daily brushing to prevent tangles and mats.",
+        "bathing": "Regular bathing and professional grooming required",
+        "ear_cleaning": "Clean ears regularly",
+        "nail_trimming": "Trim nails regularly",
+        "dental_hygiene": "Brush teeth regularly"
+      },
+      "environmental_needs": {
+        "space": "Needs secure outdoor space for exercise",
+        "toys_and_enrichment": "Enjoys chasing games, interactive toys",
+        "temperature_sensitivity": "Moderate, long coat requires attention in hot weather"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent but stubborn; requires consistent, positive reinforcement",
+        "preferred_activities": "Lure coursing, long walks, independent play",
+        "socialization_needs": "Early socialization is beneficial to develop good manners"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can be prone to boredom if not adequately exercised or stimulated",
+        "exercise_requirements": "Needs regular vigorous exercise to prevent destructive behavior",
+        "health_monitoring": "Monitor for joint and eye issues, and anesthesia sensitivity"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable, quiet spaces, often prefers elevated areas",
+        "sleep_cycle": "Alternates between short naps and periods of deeper sleep",
+        "activity_vs_rest": "Periods of high activity followed by long rest",
+        "comfort_preferences": "Prefers soft, supportive bedding"
+      }
+    },
+    {
+      "name": "Akita",
+      "basic_information": {
+        "size": "Large and powerful (24–28″ tall, 70–130 lbs)",
+        "origin": "Japan",
+        "lifespan": "Approximately 10–13 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Sturdy, powerful, well-muscled",
+        "head_shape": "Broad head, short muzzle",
+        "eye_shape_and_color": "Small, dark, deep-set, triangular",
+        "ear_shape": "Erect, small for the head size, slightly rounded tips",
+        "coat_type": "Thick double coat",
+        "coat_colors": "White, red, brindle, and sesame",
+        "distinctive_features": "Curled tail over back, broad head, erect ears"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, needs daily exercise",
+        "curiosity": "Observant and curious",
+        "social_interaction": "Brave, dignified, and loyal. Naturally protective and reserved with strangers.",
+        "affection_level": "Bonds strongly with one family, can be affectionate but not overly demonstrative",
+        "independence": "Independent, strong-willed",
+        "intelligence": "Highly intelligent but can be stubborn"
+      },
+      "social_compatibility": {
+        "with_humans": "Devoted to family, reserved with strangers",
+        "with_pets": "Not usually dog-friendly; early socialization is essential",
+        "with_children": "Good with children within their family if raised together and properly socialized",
+        "environment": "Requires a secure yard, not ideal for off-leash park visits due to prey drive and dog aggression"
+      },
+      "health_profile": {
+        "lifespan": "10–13 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Hypothyroidism",
+          "Progressive Retinal Atrophy (PRA)",
+          "Autoimmune Disorders (e.g., VKH - Vogt-Koyanagi-Harada syndrome)",
+          "Bloat"
+        ],
+        "preventive_care": [
+          "Regular checkups",
+          "Exercise appropriate for age and health",
+          "Monitoring for autoimmune symptoms"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Moderate to high. Heavy seasonal shedders (\"blow coat\" twice a year). Weekly brushing (daily during shedding).",
+        "bathing": "Bathe monthly or as needed",
+        "ear_cleaning": "Maintain ears regularly",
+        "nail_trimming": "Maintain nails regularly",
+        "dental_hygiene": "Maintain dental hygiene regularly"
+      },
+      "environmental_needs": {
+        "space": "Needs a secure outdoor area for exercise",
+        "toys_and_enrichment": "Durable chew toys, puzzle toys",
+        "temperature_sensitivity": "Tolerates cold climates well due to thick coat, can overheat in hot weather"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent but stubborn; requires experienced ownership and consistent training",
+        "preferred_activities": "Obedience, agility, weight pulling (with proper conditioning)",
+        "socialization_needs": "Early and continuous socialization is essential, especially with other dogs"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can become destructive if bored or left alone for too long without adequate stimulation",
+        "exercise_requirements": "Needs regular, vigorous exercise to prevent boredom and behavioral issues",
+        "health_monitoring": "Prone to several health issues, requires vigilant monitoring and regular vet care"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Cool, comfortable areas, often prefers a quiet spot",
+        "sleep_cycle": "Alternates between short naps and longer periods of deep sleep",
+        "activity_vs_rest": "Periods of activity followed by significant rest",
+        "comfort_preferences": "Prefers comfortable, sturdy bedding"
+      }
+    },
+    {
+      "name": "Alaskan Malamute",
+      "basic_information": {
+        "size": "Large and powerful (23–25″ tall, 75–100+ lbs)",
+        "origin": "Alaska",
+        "lifespan": "Approximately 10–14 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Powerful, sturdy, well-muscled",
+        "head_shape": "Broad head, wolf-like face",
+        "eye_shape_and_color": "Almond-shaped, typically brown (blue eyes are a disqualifying fault)",
+        "ear_shape": "Erect, triangular",
+        "coat_type": "Thick, dense double coat",
+        "coat_colors": "Gray/white, red/white, black/white, sable, seal",
+        "distinctive_features": "Plumed tail curls over back, wolf-like face"
+      },
+      "personality_and_behavior": {
+        "activity_level": "High, needs significant exercise",
+        "curiosity": "Highly curious and loves to explore, especially by digging",
+        "social_interaction": "Energetic, friendly, and strong-willed. Pack-oriented, loyal to family, and good with children.",
+        "affection_level": "Very affectionate with family, but can be independent",
+        "independence": "Independent and vocal (howling, 'talking')",
+        "intelligence": "Intelligent but strong-willed, requires firm leadership"
+      },
+      "social_compatibility": {
+        "with_humans": "Loyal to family, friendly with strangers if well-socialized",
+        "with_pets": "Can be prone to prey drive with smaller animals; careful introductions with other dogs are necessary",
+        "with_children": "Good with children if raised with them and properly socialized",
+        "environment": "Needs a securely fenced yard, thrives in cooler climates"
+      },
+      "health_profile": {
+        "lifespan": "10–14 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Elbow Dysplasia",
+          "Hypothyroidism",
+          "Cataracts",
+          "Inherited Polyneuropathy",
+          "Bloat"
+        ],
+        "preventive_care": [
+          "Regular vet check-ups",
+          "Avoid overheating",
+          "Provide ample exercise appropriate for their age and health"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "High. Sheds heavily, especially seasonally. Brush several times/week (daily when shedding).",
+        "bathing": "Bathe only as needed, as frequent bathing can strip natural oils",
+        "ear_cleaning": "Routine ear cleaning necessary",
+        "nail_trimming": "Routine nail trimming necessary",
+        "dental_hygiene": "Routine dental hygiene necessary"
+      },
+      "environmental_needs": {
+        "space": "Needs a large, securely fenced yard to prevent wandering",
+        "toys_and_enrichment": "Durable chew toys, pulling toys, interactive games",
+        "temperature_sensitivity": "Highly tolerant of cold climates, prone to overheating in hot weather"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent but strong-willed; requires consistent, firm, and positive reinforcement from an experienced owner",
+        "preferred_activities": "Hiking, backpacking, dog sledding, weight pulling",
+        "socialization_needs": "Early and continuous socialization is crucial to ensure a well-adjusted temperament"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can be destructive if bored or left alone for long periods without sufficient exercise and mental stimulation",
+        "exercise_requirements": "High energy and stamina require significant daily exercise to prevent behavioral issues",
+        "health_monitoring": "Monitor for joint issues and be mindful of heat intolerance"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Cool, comfortable areas, can sleep outdoors in appropriate climates",
+        "sleep_cycle": "Alternates between short naps and longer periods of deep sleep",
+        "activity_vs_rest": "Periods of high energy and activity followed by substantial rest",
+        "comfort_preferences": "Prefers comfortable, durable bedding, can tolerate cooler sleeping conditions"
+      }
+    },
+    {
+      "name": "American Bully",
+      "basic_information": {
+        "size": "Medium-sized (16–20″ tall, 30–85 lbs depending on type)",
+        "origin": "United States",
+        "lifespan": "Approximately 10–13 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Muscular build, broad chest, and strong stance",
+        "head_shape": "Blocky head with short muzzle",
+        "eye_shape_and_color": "Varies, often round and expressive",
+        "ear_shape": "Set high, sometimes cropped (varies by region)",
+        "coat_type": "Short, smooth coat",
+        "coat_colors": "Various colors",
+        "distinctive_features": "Muscular build, broad chest, blocky head"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, enjoys play but also lounging",
+        "curiosity": "Curious and engaged with surroundings",
+        "social_interaction": "Confident, loyal, and affectionate. Gentle with family and children. Social, people-loving, and eager to please.",
+        "affection_level": "Very affectionate with family",
+        "independence": "Loves companionship, not highly independent",
+        "intelligence": "Intelligent and trainable, eager to please"
+      },
+      "social_compatibility": {
+        "with_humans": "Gentle with family, loyal, and good with children",
+        "with_pets": "Not aggressive when well-socialized, generally good with other pets if introduced properly",
+        "with_children": "Gentle with family and children",
+        "environment": "Adaptable to various living situations, but benefits from space to play"
+      },
+      "health_profile": {
+        "lifespan": "10–13 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Skin Allergies",
+          "Cherry Eye",
+          "Heart Conditions",
+          "Brachycephalic Breathing Issues (in some lines)"
+        ],
+        "preventive_care": [
+          "Regular vet care helps manage risks",
+          "Monitoring for skin and eye issues",
+          "Weight management"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Low. Weekly brushing to manage shedding.",
+        "bathing": "Occasional bathing",
+        "ear_cleaning": "Regular ear checks",
+        "nail_trimming": "Regular nail trimming",
+        "dental_hygiene": "Regular dental care"
+      },
+      "environmental_needs": {
+        "space": "Moderate space needs, enjoys indoor and outdoor play",
+        "toys_and_enrichment": "Durable chew toys, interactive games",
+        "temperature_sensitivity": "Moderate, can be sensitive to extreme heat due to brachycephalic traits in some lines"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent and eager to please, responds well to positive reinforcement",
+        "preferred_activities": "Obedience training, playtime, walks",
+        "socialization_needs": "Early and consistent socialization is crucial"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if left alone for extended periods without adequate stimulation",
+        "exercise_requirements": "Needs moderate daily exercise to maintain health and prevent boredom",
+        "health_monitoring": "Monitor for specific health issues, especially respiratory and joint problems"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable beds, often prefers to sleep near family members",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "Balanced between playful activity and rest periods",
+        "comfort_preferences": "Prefers soft, supportive surfaces"
+      }
+    },
+    {
+      "name": "American Cocker Spaniel",
+      "basic_information": {
+        "size": "Small-to-medium (13.5–15.5″ tall, 20–30 lbs)",
+        "origin": "United States",
+        "lifespan": "Approximately 12–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Compact, sturdy, and well-balanced",
+        "head_shape": "Rounded head with a distinct stop",
+        "eye_shape_and_color": "Round eyes, typically dark, with a charming expression",
+        "ear_shape": "Long, drooping ears with feathering",
+        "coat_type": "Silky, medium-length coat with feathering on ears, chest, legs, and belly",
+        "coat_colors": "Buff, black, parti, and more",
+        "distinctive_features": "Long ears, charming expression, feathered coat"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, enjoys play and walks",
+        "curiosity": "Curious and enjoys exploring safely",
+        "social_interaction": "Happy, gentle, and affectionate. Loves to please, sociable with people and pets.",
+        "affection_level": "Very affectionate, loves cuddling",
+        "independence": "Prefers companionship, not highly independent",
+        "intelligence": "Intelligent and eager to please, responds well to positive reinforcement"
+      },
+      "social_compatibility": {
+        "with_humans": "Sociable with people and pets, loves family life",
+        "with_pets": "Generally good with other pets",
+        "with_children": "Good with children, gentle and patient",
+        "environment": "Adaptable to apartment living with regular walks"
+      },
+      "health_profile": {
+        "lifespan": "12–15 years",
+        "common_genetic_issues": [
+          "Ear Infections",
+          "Eye Issues (Cataracts, Progressive Retinal Atrophy - PRA)",
+          "Allergies",
+          "Hip Dysplasia"
+        ],
+        "preventive_care": [
+          "Clean ears regularly to prevent infections",
+          "Monitor joints and skin",
+          "Regular vet check-ups and eye exams"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "High. Brush 3–4x/week. Regular professional grooming every 4–6 weeks.",
+        "bathing": "Regular bathing is necessary due to their coat type",
+        "ear_cleaning": "Clean ears frequently to prevent infections",
+        "nail_trimming": "Maintain nail care regularly",
+        "dental_hygiene": "Maintain dental care regularly"
+      },
+      "environmental_needs": {
+        "space": "Adaptable to apartments or houses, benefits from indoor and outdoor play",
+        "toys_and_enrichment": "Interactive toys, plush toys, fetching games",
+        "temperature_sensitivity": "Moderate, generally comfortable in most climates but sensitive to extreme heat due to coat and potential respiratory issues"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Sensitive and responds well to positive reinforcement, eager to please",
+        "preferred_activities": "Play, family activities, obedience training",
+        "socialization_needs": "Early socialization helps them become well-adjusted adults"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if left alone for too long, as they thrive on companionship",
+        "exercise_requirements": "Needs moderate daily exercise to stay healthy and happy",
+        "health_monitoring": "Prone to ear and eye issues, requires consistent monitoring"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable beds, soft blankets, often near family members",
+        "sleep_cycle": "Alternates between short naps and periods of deeper sleep",
+        "activity_vs_rest": "Balanced between playful energy and restful periods",
+        "comfort_preferences": "Prefers soft, cozy, and warm sleeping spots"
+      }
+    },
+    {
+      "name": "American Staffordshire Terrier",
+      "basic_information": {
+        "size": "Medium-sized, muscular (17–19 inches tall, 40–70 pounds)",
+        "origin": "United States",
+        "lifespan": "Approximately 12 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Muscular, powerful, agile",
+        "head_shape": "Broad head, pronounced cheek muscles",
+        "eye_shape_and_color": "Round, dark, set low and wide apart",
+        "ear_shape": "Set high, sometimes cropped (varies by region)",
+        "coat_type": "Short, glossy coat",
+        "coat_colors": "Various colors and patterns",
+        "distinctive_features": "Muscular build, broad head, confident stance"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate to high, needs regular exercise",
+        "curiosity": "Curious and engaged with surroundings",
+        "social_interaction": "Known for their intelligence and confidence, AmStaffs are affectionate and loyal companions. They are eager to please and thrive on human interaction.",
+        "affection_level": "Affectionate and loyal",
+        "independence": "Prefers human interaction, not highly independent",
+        "intelligence": "Highly intelligent, eager to please, trainable"
+      },
+      "social_compatibility": {
+        "with_humans": "Affectionate and loyal companions, good with families",
+        "with_pets": "Early socialization and careful introductions with other pets are essential",
+        "with_children": "Generally good with children if properly socialized and trained",
+        "environment": "Adaptable to various living situations, but thrives with an active family"
+      },
+      "health_profile": {
+        "lifespan": "Approximately 12 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Skin Allergies",
+          "Certain Heart Conditions"
+        ],
+        "preventive_care": [
+          "Regular veterinary check-ups",
+          "Balanced diet",
+          "Monitoring for skin and heart conditions"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Low. Weekly brushing to help remove loose hairs and keep their coat shiny.",
+        "bathing": "Occasional bathing as needed",
+        "ear_cleaning": "Regular ear checks",
+        "nail_trimming": "Regular nail trimming",
+        "dental_hygiene": "Regular dental care"
+      },
+      "environmental_needs": {
+        "space": "Needs adequate space for exercise, a secure yard is beneficial",
+        "toys_and_enrichment": "Durable chew toys, tug toys, interactive games",
+        "temperature_sensitivity": "Moderate, generally tolerates various climates but sensitive to extremes"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly trainable due to intelligence and eagerness to please, responds well to consistent training",
+        "preferred_activities": "Obedience, agility, weight pulling, fetch",
+        "socialization_needs": "Early socialization and consistent training are essential to harness their energy and strength positively"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if left alone for prolonged periods without adequate stimulation",
+        "exercise_requirements": "Needs consistent daily exercise to prevent boredom and destructive behaviors",
+        "health_monitoring": "Monitor for hip, skin, and heart conditions"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable beds, often near family members",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "Balanced between active play and restful periods",
+        "comfort_preferences": "Prefers soft, supportive surfaces"
+      }
+    },
+    {
+      "name": "Belgian Shepherd Dog (Groenendael)",
+      "basic_information": {
+        "size": "Medium-sized, elegant (22–26 inches tall, 60–75 pounds)",
+        "origin": "Belgium",
+        "lifespan": "12–14 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Elegant, well-muscled, graceful",
+        "head_shape": "Fine, chiseled, tapering muzzle",
+        "eye_shape_and_color": "Dark, almond-shaped, intelligent expression",
+        "ear_shape": "Erect, triangular",
+        "coat_type": "Long, black double coat",
+        "coat_colors": "Black",
+        "distinctive_features": "Long, black double coat, erect ears, proud carriage"
+      },
+      "personality_and_behavior": {
+        "activity_level": "High, needs consistent mental and physical stimulation",
+        "curiosity": "Highly curious and attentive",
+        "social_interaction": "Highly intelligent and trainable, they are known for their versatility and strong work ethic. They form close bonds with their families and require regular mental and physical stimulation to prevent boredom.",
+        "affection_level": "Forms close bonds with family, affectionate",
+        "independence": "Can be independent but thrives on interaction",
+        "intelligence": "Highly intelligent and trainable"
+      },
+      "social_compatibility": {
+        "with_humans": "Forms close bonds with families, devoted",
+        "with_pets": "Generally good with other pets if socialized from a young age",
+        "with_children": "Good with respectful children, especially when raised with them",
+        "environment": "Thrives in active households, needs space to exercise"
+      },
+      "health_profile": {
+        "lifespan": "12–14 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Elbow Dysplasia",
+          "Epilepsy",
+          "Certain Eye Conditions (e.g., Progressive Retinal Atrophy)"
+        ],
+        "preventive_care": [
+          "Regular health screenings",
+          "Proper exercise to maintain joint health",
+          "Balanced diet"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "High. Their long coat requires regular brushing, at least once a week, to prevent matting and control shedding. During heavy shedding periods, more frequent grooming may be necessary.",
+        "bathing": "As needed, typically every few months",
+        "ear_cleaning": "Regular ear checks and cleaning",
+        "nail_trimming": "Regular nail trimming",
+        "dental_hygiene": "Regular dental care"
+      },
+      "environmental_needs": {
+        "space": "Needs ample space for exercise, a secure yard is beneficial",
+        "toys_and_enrichment": "Puzzle toys, interactive games, agility equipment",
+        "temperature_sensitivity": "Tolerant of various climates due to double coat, but can overheat in extreme heat with high activity"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly intelligent and trainable, eager to learn and please",
+        "preferred_activities": "Obedience, agility, herding, protection work",
+        "socialization_needs": "Early and consistent socialization is vital for a well-adjusted temperament"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if not given enough attention, exercise, or mental stimulation",
+        "exercise_requirements": "High energy demands, requires daily vigorous exercise and mental challenges",
+        "health_monitoring": "Monitor for joint issues and neurological conditions"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable, quiet spaces, often prefers to be near family",
+        "sleep_cycle": "Alternates between short naps and longer periods of deep sleep",
+        "activity_vs_rest": "Periods of high activity followed by restful periods",
+        "comfort_preferences": "Prefers soft, supportive surfaces"
+      }
+    },
+    {
+      "name": "Boston Terrier",
+      "basic_information": {
+        "size": "Compact, short-tailed (no more than 25 pounds)",
+        "origin": "United States",
+        "lifespan": "11–13 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Compact, muscular, well-proportioned",
+        "head_shape": "Square head with a short muzzle",
+        "eye_shape_and_color": "Large, round, expressive eyes, typically dark",
+        "ear_shape": "Erect, naturally or cropped",
+        "coat_type": "Short, smooth coat",
+        "coat_colors": "Tuxedo-like black and white, brindle and white, or seal and white",
+        "distinctive_features": "Tuxedo-like markings, large expressive eyes, bat-like ears"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, enjoys playtime",
+        "curiosity": "Curious and playful",
+        "social_interaction": "Known for their friendly and affectionate nature, Boston Terriers are gentle companions. They are intelligent, lively, and enjoy being part of family activities.",
+        "affection_level": "Very affectionate, loves cuddling",
+        "independence": "Loves companionship, not highly independent",
+        "intelligence": "Intelligent and lively"
+      },
+      "social_compatibility": {
+        "with_humans": "Friendly and affectionate, good with families",
+        "with_pets": "Generally good with other pets if socialized",
+        "with_children": "Gentle with children, makes a good family pet",
+        "environment": "Adaptable to apartment living, does not require a large yard"
+      },
+      "health_profile": {
+        "lifespan": "11–13 years",
+        "common_genetic_issues": [
+          "Respiratory Issues (due to short snouts - Brachycephalic Syndrome)",
+          "Eye Problems (e.g., Cataracts, Cherry Eye, Corneal Ulcers)",
+          "Patellar Luxation",
+          "Deafness"
+        ],
+        "preventive_care": [
+          "Regular veterinary care and monitoring for respiratory and eye issues",
+          "Avoid overexertion in hot weather",
+          "Weight management"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Low. Their short coat is easy to maintain with weekly brushing.",
+        "bathing": "Occasional bathing as needed",
+        "ear_cleaning": "Regular cleaning of facial folds and eyes is recommended to prevent infections.",
+        "nail_trimming": "Regular nail trimming",
+        "dental_hygiene": "Regular dental care"
+      },
+      "environmental_needs": {
+        "space": "Adaptable to apartment living, does not require large spaces",
+        "toys_and_enrichment": "Interactive toys, chew toys",
+        "temperature_sensitivity": "Sensitive to extreme temperatures (both hot and cold) due to their brachycephalic nature and short coat. Requires protection in extreme weather."
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent and generally eager to please, responds well to positive reinforcement",
+        "preferred_activities": "Play, short walks, indoor games",
+        "socialization_needs": "Early socialization is beneficial for a well-rounded temperament"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if left alone for extended periods",
+        "exercise_requirements": "Moderate, but prone to overheating, so exercise needs careful management",
+        "health_monitoring": "Requires consistent monitoring for respiratory and eye problems"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable, soft beds, often prefers to cuddle near owners",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "Balanced between playful bursts and restful periods",
+        "comfort_preferences": "Prefers soft, warm, and cozy sleeping spots"
+      }
+    },
+    {
+      "name": "Bull Terrier",
+      "basic_information": {
+        "size": "Muscular dogs (21–22 inches tall, 50–70 pounds)",
+        "origin": "England",
+        "lifespan": "10–14 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Muscular, sturdy, powerful",
+        "head_shape": "Distinctive egg-shaped head",
+        "eye_shape_and_color": "Small, triangular eyes, often dark",
+        "ear_shape": "Small, thin, and set close together",
+        "coat_type": "Short, dense coat",
+        "coat_colors": "Various colors (e.g., white, brindle, red, fawn, black)",
+        "distinctive_features": "Egg-shaped head, muscular build, mischievous expression"
+      },
+      "personality_and_behavior": {
+        "activity_level": "High, needs plenty of exercise",
+        "curiosity": "Highly curious and playful",
+        "social_interaction": "Playful and affectionate, Bull Terriers are known for their mischievous nature. They are loyal companions but require consistent training and socialization from an early age.",
+        "affection_level": "Affectionate and loyal to family",
+        "independence": "Can be independent and strong-willed",
+        "intelligence": "Intelligent but can be stubborn, requires consistent training"
+      },
+      "social_compatibility": {
+        "with_humans": "Loyal and affectionate companions, good with families",
+        "with_pets": "Early socialization and careful introductions with other pets are crucial, can be dog-reactive",
+        "with_children": "Good with older, respectful children, especially when raised with them",
+        "environment": "Adaptable to various living situations but needs a secure yard for exercise"
+      },
+      "health_profile": {
+        "lifespan": "10–14 years",
+        "common_genetic_issues": [
+          "Deafness (especially in white individuals)",
+          "Skin Allergies",
+          "Heart Problems (e.g., Aortic Stenosis)",
+          "Kidney Disease"
+        ],
+        "preventive_care": [
+          "Regular health check-ups are essential",
+          "BAER testing for deafness in puppies",
+          "Monitoring for skin and heart conditions"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Low-maintenance, requiring only weekly brushing.",
+        "bathing": "Occasional bathing as needed",
+        "ear_cleaning": "Regular ear checks",
+        "nail_trimming": "Regular nail trimming",
+        "dental_hygiene": "Regular dental care"
+      },
+      "environmental_needs": {
+        "space": "Needs adequate space for play and exercise",
+        "toys_and_enrichment": "Durable chew toys, interactive puzzle toys",
+        "temperature_sensitivity": "Moderate, short coat provides limited protection in extreme cold"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent but can be stubborn; requires consistent, firm, and positive reinforcement",
+        "preferred_activities": "Play, obedience training, digging (provide designated digging area)",
+        "socialization_needs": "Consistent training and socialization from an early age are essential"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if not given enough attention or stimulation, leading to destructive behavior",
+        "exercise_requirements": "High energy levels require significant daily exercise to prevent boredom",
+        "health_monitoring": "Monitor for deafness, skin allergies, and heart issues"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable beds, often near family members",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "Periods of high energy followed by restful periods",
+        "comfort_preferences": "Prefers soft, supportive surfaces"
+      }
+    },
+    {
+      "name": "Bulldog",
+      "basic_information": {
+        "size": "Medium-sized (around 40–50 pounds)",
+        "origin": "England",
+        "lifespan": "8–10 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Muscular build, sturdy, low to the ground",
+        "head_shape": "Distinctive wrinkled face, short muzzle, broad head",
+        "eye_shape_and_color": "Round, dark, set low and wide apart",
+        "ear_shape": "Small, thin, set high on the head, often 'rose' ears",
+        "coat_type": "Smooth, short coat",
+        "coat_colors": "Various (e.g., fawn, white, brindle, piebald, red)",
+        "distinctive_features": "Wrinkled face, undershot jaw, rolling gait, short tail"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Low to moderate, prone to overheating with overexertion",
+        "curiosity": "Moderate, enjoys exploring at a slow pace",
+        "social_interaction": "Known for their calm and friendly demeanor, Bulldogs are loyal and affectionate companions. They are good with children and adapt well to apartment living.",
+        "affection_level": "Very affectionate, loves human companionship",
+        "independence": "Can be stubborn but loves being part of the family",
+        "intelligence": "Intelligent but can be stubborn, requires patient training"
+      },
+      "social_compatibility": {
+        "with_humans": "Calm and friendly, loyal and affectionate, good with children",
+        "with_pets": "Generally good with other pets if socialized from a young age",
+        "with_children": "Good with children",
+        "environment": "Adapts well to apartment living, cannot tolerate extreme temperatures"
+      },
+      "health_profile": {
+        "lifespan": "8–10 years",
+        "common_genetic_issues": [
+          "Respiratory Issues (Brachycephalic Obstructive Airway Syndrome - BOAS)",
+          "Hip Dysplasia",
+          "Skin Infections (especially in wrinkles)",
+          "Heat Stroke",
+          "Cherry Eye",
+          "Luxating Patella"
+        ],
+        "preventive_care": [
+          "Regular veterinary care and monitoring are crucial",
+          "Avoid overexertion, especially in hot or humid weather",
+          "Careful management of weight and diet"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Low. Their short coat requires minimal grooming.",
+        "bathing": "Occasional bathing as needed",
+        "ear_cleaning": "Regular cleaning of facial wrinkles is important to prevent infections.",
+        "nail_trimming": "Regular nail trimming",
+        "dental_hygiene": "Regular dental care"
+      },
+      "environmental_needs": {
+        "space": "Adaptable to apartment living, minimal outdoor space needed if daily walks are provided",
+        "toys_and_enrichment": "Durable chew toys, puzzle toys (easy to manipulate)",
+        "temperature_sensitivity": "Highly sensitive to heat and humidity due to brachycephalic nature. Prone to overheating."
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent but can be stubborn; requires patient, consistent, and positive reinforcement",
+        "preferred_activities": "Short walks, indoor play, lounging with family",
+        "socialization_needs": "Early socialization is beneficial for a well-rounded temperament"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if left alone for extended periods, but generally more tolerant than some breeds",
+        "exercise_requirements": "Low to moderate, but must be managed carefully to avoid overheating",
+        "health_monitoring": "Requires constant monitoring for respiratory issues and heat intolerance"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Cool, comfortable spots, often prefers to sleep near family members",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep, often snores loudly",
+        "activity_vs_rest": "More prone to rest and lounging, with short bursts of activity",
+        "comfort_preferences": "Prefers soft, supportive beds and cool surfaces"
+      }
+    },
+    {
+      "name": "Bullmastiff",
+      "basic_information": {
+        "size": "Large, muscular (24–27 inches tall, 100–130 pounds)",
+        "origin": "England",
+        "lifespan": "Around 7–9 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Massive, symmetrical, powerful",
+        "head_shape": "Broad head with a wrinkled forehead",
+        "eye_shape_and_color": "Dark, medium-sized, thoughtful expression",
+        "ear_shape": "V-shaped, set high and wide, close to cheeks",
+        "coat_type": "Short, dense coat",
+        "coat_colors": "Fawn, brindle, red",
+        "distinctive_features": "Broad head, wrinkled forehead, powerful build"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, calm indoors but needs regular exercise",
+        "curiosity": "Observant and aware of surroundings",
+        "social_interaction": "Gentle and affectionate with family members, Bullmastiffs are protective and make excellent guard dogs. They are calm indoors but require regular exercise.",
+        "affection_level": "Gentle and affectionate with family",
+        "independence": "Can be independent but loyal to family",
+        "intelligence": "Intelligent and discerning, can be stubborn"
+      },
+      "social_compatibility": {
+        "with_humans": "Gentle and affectionate with family, protective",
+        "with_pets": "Generally good with other pets if raised with them and socialized",
+        "with_children": "Patient and gentle with children, but their size requires supervision",
+        "environment": "Adaptable to various living situations, but needs space and a secure yard"
+      },
+      "health_profile": {
+        "lifespan": "7–9 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Elbow Dysplasia",
+          "Bloat (Gastric Dilatation-Volvulus - GDV)",
+          "Certain Cancers (e.g., Lymphoma, Osteosarcoma)",
+          "Eye problems (e.g., Entropion, Ectropion)"
+        ],
+        "preventive_care": [
+          "Regular health screenings are recommended",
+          "Monitor for signs of bloat",
+          "Proper diet and exercise to maintain healthy weight"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Low. Their short coat is easy to maintain with weekly brushing.",
+        "bathing": "Occasional bathing as needed",
+        "ear_cleaning": "Regular ear checks",
+        "nail_trimming": "Regular nail trimming",
+        "dental_hygiene": "Regular dental care"
+      },
+      "environmental_needs": {
+        "space": "Needs ample space, secure yard is essential",
+        "toys_and_enrichment": "Durable chew toys, sturdy interactive toys",
+        "temperature_sensitivity": "Moderate, can be sensitive to extreme heat due to their size and short muzzle"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent but can be strong-willed; requires consistent, firm, and positive reinforcement from an experienced owner",
+        "preferred_activities": "Obedience training, short walks, guarding (natural instinct)",
+        "socialization_needs": "Early and consistent socialization is crucial to ensure a well-adjusted temperament and manage guarding instincts"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if left alone for prolonged periods without adequate companionship",
+        "exercise_requirements": "Needs regular exercise, but avoid overexertion, especially in heat",
+        "health_monitoring": "Prone to several serious health issues, requires vigilant monitoring and regular vet care"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable, cool spots, often prefers to be near family",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "More prone to rest and lounging indoors, with periods of activity",
+        "comfort_preferences": "Prefers soft, supportive beds and cool surfaces"
+      }
+    },
+    {
+      "name": "Bully Kutta",
+      "basic_information": {
+        "size": "Large, muscular (28–44 inches tall, 130–170 pounds)",
+        "origin": "Indian Subcontinent",
+        "lifespan": "8–10 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Massive, powerful build",
+        "head_shape": "Large, broad head",
+        "eye_shape_and_color": "Varies, often dark and alert",
+        "ear_shape": "Set high, often cropped (varies by region)",
+        "coat_type": "Short, smooth coat",
+        "coat_colors": "Often white or brindle, but can be various colors",
+        "distinctive_features": "Massive size, muscular build, powerful jaw"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate to high, needs significant exercise",
+        "curiosity": "Observant and alert",
+        "social_interaction": "Confident and strong-willed, Bully Kuttas are loyal to their families but can be aggressive if not properly trained and socialized. They require experienced handlers.",
+        "affection_level": "Loyal to family, can be affectionate with trusted individuals",
+        "independence": "Highly independent and dominant",
+        "intelligence": "Intelligent but very strong-willed, requires experienced handler"
+      },
+      "social_compatibility": {
+        "with_humans": "Loyal to family, but wary of strangers; requires experienced handler",
+        "with_pets": "Can be aggressive towards other dogs and animals if not properly socialized from a very young age",
+        "with_children": "Not recommended for homes with small children due to size and protective nature, or requires extreme supervision and socialization",
+        "environment": "Needs a very large, securely fenced area; not suitable for confined spaces"
+      },
+      "health_profile": {
+        "lifespan": "8–10 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Skin Issues (e.g., demodectic mange)",
+          "Bloat",
+          "Heat Stroke"
+        ],
+        "preventive_care": [
+          "Regular veterinary care is important",
+          "Proper nutrition and exercise",
+          "Monitoring for skin conditions and joint health"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Low. Their short coat requires minimal grooming. Weekly brushing and regular bathing are sufficient.",
+        "bathing": "Regular bathing as needed",
+        "ear_cleaning": "Regular ear checks",
+        "nail_trimming": "Regular nail trimming",
+        "dental_hygiene": "Regular dental care"
+      },
+      "environmental_needs": {
+        "space": "Requires a very large, securely fenced area; not suitable for confined spaces",
+        "toys_and_enrichment": "Extremely durable chew toys, strong tug toys",
+        "temperature_sensitivity": "Can be sensitive to extreme heat due to their size and short coat, prone to overheating"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Requires experienced, consistent, and firm training from a very young age; not for novice owners",
+        "preferred_activities": "Weight pulling, protection work, extensive exercise",
+        "socialization_needs": "Extensive and early socialization is crucial for managing their temperament"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if not given enough interaction, but often more independent than other breeds",
+        "exercise_requirements": "High energy demands, requires significant daily exercise to prevent boredom and destructive behaviors",
+        "health_monitoring": "Monitor for hip dysplasia and skin issues"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Cool, comfortable, and spacious areas",
+        "sleep_cycle": "Alternates between short naps and longer periods of deep sleep",
+        "activity_vs_rest": "Periods of high activity followed by significant rest",
+        "comfort_preferences": "Prefers sturdy, spacious bedding"
+      }
+    },
+    {
+      "name": "Cane Corso",
+      "basic_information": {
+        "size": "Large, muscular (23.5–27.5 inches tall, 90–120 pounds)",
+        "origin": "Italy",
+        "lifespan": "Around 9–12 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Robust, athletic, powerful",
+        "head_shape": "Broad head with a strong jaw",
+        "eye_shape_and_color": "Medium-sized, oval, various colors (often dark)",
+        "ear_shape": "Set high, often cropped (varies by region)",
+        "coat_type": "Short, dense coat",
+        "coat_colors": "Black, gray, fawn, red, brindle",
+        "distinctive_features": "Muscular build, broad head, strong jaw"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate to high, needs consistent exercise",
+        "curiosity": "Alert and observant",
+        "social_interaction": "Intelligent and protective, Cane Corsos are loyal to their families and make excellent guard dogs. They require consistent training and early socialization.",
+        "affection_level": "Loyal and affectionate with family",
+        "independence": "Can be independent but thrives with family interaction",
+        "intelligence": "Intelligent, highly trainable, and eager to please (with the right handler)"
+      },
+      "social_compatibility": {
+        "with_humans": "Loyal to family, protective, can be wary of strangers",
+        "with_pets": "Early socialization and careful introductions with other pets are crucial",
+        "with_children": "Generally good with children in their family if properly socialized and supervised, but size requires caution",
+        "environment": "Adaptable to various living situations if given adequate exercise and mental stimulation, secure yard is a must"
+      },
+      "health_profile": {
+        "lifespan": "9–12 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Bloat (Gastric Dilatation-Volvulus - GDV)",
+          "Eye Problems (e.g., Entropion, Ectropion, Cherry Eye)",
+          "Idiopathic Epilepsy"
+        ],
+        "preventive_care": [
+          "Regular health screenings are advisable",
+          "Monitor for bloat symptoms",
+          "Proper diet and exercise"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Low. Their short coat is low-maintenance, requiring weekly brushing.",
+        "bathing": "Occasional bathing as needed",
+        "ear_cleaning": "Regular ear checks",
+        "nail_trimming": "Regular nail trimming",
+        "dental_hygiene": "Regular dental care"
+      },
+      "environmental_needs": {
+        "space": "Needs ample space for exercise, a secure yard is essential",
+        "toys_and_enrichment": "Durable chew toys, interactive puzzle toys, obedience training aids",
+        "temperature_sensitivity": "Moderate, short coat provides limited protection in extreme cold"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly intelligent and trainable, but requires consistent, firm, and positive reinforcement from an experienced owner",
+        "preferred_activities": "Obedience, protection work, agility, long walks",
+        "socialization_needs": "Early and consistent socialization is crucial to develop a well-rounded and stable temperament"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if left alone for extended periods without adequate mental or physical stimulation",
+        "exercise_requirements": "Needs consistent daily exercise and mental challenges to prevent boredom and destructive behaviors",
+        "health_monitoring": "Monitor for hip dysplasia, bloat, and eye problems"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable, cool and spacious areas",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "Periods of high activity followed by significant rest and lounging",
+        "comfort_preferences": "Prefers sturdy, supportive bedding"
+      }
+    },
+    {
+      "name": "Caucasian Shepherd Dog",
+      "basic_information": {
+        "size": "Large, powerful (23–30 inches tall, 99–170 pounds)",
+        "origin": "Caucasus Mountains",
+        "lifespan": "10–12 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Robust, muscular, heavy-boned",
+        "head_shape": "Massive, wedge-shaped head",
+        "eye_shape_and_color": "Dark, oval-shaped, deep-set, thoughtful expression",
+        "ear_shape": "Small, triangular, set high, often cropped (varies by region)",
+        "coat_type": "Thick double coat (can be short or long)",
+        "coat_colors": "Various (e.g., black, fawn, brindle, white, gray, red)",
+        "distinctive_features": "Massive size, thick coat, powerful build, imposing presence"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, needs regular exercise but can be calm indoors",
+        "curiosity": "Observant and cautious",
+        "social_interaction": "Bold and fearless, they are protective of their families and wary of strangers. Early training and socialization are crucial to manage their strong guarding instincts.",
+        "affection_level": "Loyal and devoted to family, can be reserved with strangers",
+        "independence": "Highly independent and territorial",
+        "intelligence": "Intelligent but very strong-willed, requires experienced handler"
+      },
+      "social_compatibility": {
+        "with_humans": "Protective of family, wary and reserved with strangers",
+        "with_pets": "Can be aggressive towards other dogs and animals if not properly socialized and managed",
+        "with_children": "Not recommended for homes with small children due to size and guarding instincts without extreme supervision and socialization",
+        "environment": "Needs a very large, securely fenced property; not suitable for urban or apartment living"
+      },
+      "health_profile": {
+        "lifespan": "10–12 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Elbow Dysplasia",
+          "Obesity",
+          "Heart Problems (e.g., Dilated Cardiomyopathy)"
+        ],
+        "preventive_care": [
+          "Regular veterinary care and a balanced diet are important",
+          "Proper exercise to maintain joint health",
+          "Weight management to prevent obesity"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "High. Their thick coat requires regular brushing, at least twice a week, to prevent matting and control shedding.",
+        "bathing": "Occasional bathing as needed",
+        "ear_cleaning": "Regular ear checks",
+        "nail_trimming": "Regular nail trimming",
+        "dental_hygiene": "Regular dental care"
+      },
+      "environmental_needs": {
+        "space": "Requires vast space and a securely fenced property",
+        "toys_and_enrichment": "Durable chew toys, strong tug toys, large puzzle feeders",
+        "temperature_sensitivity": "Highly tolerant of cold climates due to thick double coat, can overheat in hot weather"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Extremely challenging to train due to high independence and strong guarding instincts; requires highly experienced, firm, and consistent leadership",
+        "preferred_activities": "Patrolling property, guarding, moderate walks",
+        "socialization_needs": "Early and extensive socialization is crucial but may not completely override natural guarding instincts"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Generally not prone to separation anxiety, as they are independent guardians",
+        "exercise_requirements": "Needs regular exercise, but not excessive, as they prefer to observe and patrol",
+        "health_monitoring": "Monitor for hip dysplasia and obesity"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Cool, spacious areas, often prefers to be outdoors or in a sheltered outdoor space",
+        "sleep_cycle": "Alternates between periods of alertness/patrolling and deep rest",
+        "activity_vs_rest": "More active during cooler parts of the day and night (natural guarding behavior)",
+        "comfort_preferences": "Prefers firm, sturdy resting spots"
+      }
+    },
+    {
+      "name": "Cavalier King Charles Spaniel",
+      "basic_information": {
+        "size": "Small (12–13″ tall, 13–18 lbs)",
+        "origin": "England",
+        "lifespan": "Approximately 12–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Graceful, compact, well-balanced",
+        "head_shape": "Slightly rounded, well-cushioned below the eyes",
+        "eye_shape_and_color": "Big, dark, round eyes, gentle expression",
+        "ear_shape": "Long, drooping ears with feathering",
+        "coat_type": "Silky, medium-length feathered coat",
+        "coat_colors": "Blenheim (chestnut & white), tricolor (black, white, tan), ruby (rich red), and black & tan",
+        "distinctive_features": "Big, dark eyes; long, drooping ears; charming expression"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, enjoys walks and playtime",
+        "curiosity": "Curious and engaged with family activities",
+        "social_interaction": "Gentle, affectionate, and eager to please. Excellent companion dog. Loves cuddling, very social, and typically friendly with all. Great for families, seniors, and apartment living.",
+        "affection_level": "Very affectionate, loves cuddling and human companionship",
+        "independence": "Craves companionship, not independent",
+        "intelligence": "Intelligent, eager to please, and highly trainable"
+      },
+      "social_compatibility": {
+        "with_humans": "Excellent companion dog, friendly with all",
+        "with_pets": "Typically friendly with other pets",
+        "with_children": "Great for families, gentle and patient with children",
+        "environment": "Great for apartment living, adaptable to various households"
+      },
+      "health_profile": {
+        "lifespan": "12–15 years",
+        "common_genetic_issues": [
+          "Mitral Valve Disease (MVD) - heart condition",
+          "Syringomyelia (SM) - neurological condition",
+          "Hip Dysplasia",
+          "Patellar Luxation",
+          "Ear Infections (due to long ears)",
+          "Eye problems (e.g., cataracts)"
+        ],
+        "preventive_care": [
+          "Genetic screening and regular vet visits are important (especially for heart and neurological conditions)",
+          "Regular ear cleaning to prevent infections",
+          "Weight management"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Moderate. Brush 3–4x/week to prevent mats and tangles.",
+        "bathing": "Bathe every 4–6 weeks or as needed",
+        "ear_cleaning": "Clean ears weekly",
+        "nail_trimming": "Trim nails regularly",
+        "dental_hygiene": "Brush teeth regularly"
+      },
+      "environmental_needs": {
+        "space": "Adaptable to small living spaces like apartments, but enjoys outdoor walks",
+        "toys_and_enrichment": "Interactive toys, plush toys, puzzles",
+        "temperature_sensitivity": "Moderate, sensitive to extreme heat due to their brachycephalic tendencies (though less severe than Pugs/Bulldogs) and coat"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly trainable due to intelligence and eagerness to please, responds very well to positive reinforcement",
+        "preferred_activities": "Cuddling, short walks, indoor games, trick training",
+        "socialization_needs": "Early and consistent socialization helps them become well-adjusted and confident"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Highly prone to separation anxiety if left alone for long periods, as they thrive on human companionship",
+        "exercise_requirements": "Moderate, needs daily walks and playtime, but avoid overexertion in heat",
+        "health_monitoring": "Requires vigilant monitoring for heart and neurological conditions"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable beds, soft blankets, often prefers to sleep with owners or near them",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "Balanced between playful energy and restful periods, enjoys lounging",
+        "comfort_preferences": "Prefers soft, cozy, and warm sleeping spots"
+      }
+    },
+    {
+      "name": "Central Asian Shepherd Dog",
+      "basic_information": {
+        "size": "Large, powerful, and rugged (Males: 27.5–31.5″ in height, 110–170 lbs)",
+        "origin": "Central Asia",
+        "lifespan": "Approximately 12–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Massive, muscular, with heavy bone structure",
+        "head_shape": "Broad head with heavy bone structure",
+        "eye_shape_and_color": "Dark, oval, set wide apart, serious expression",
+        "ear_shape": "Medium-sized, triangular, usually cropped in countries where it's permitted",
+        "coat_type": "Dense, coarse coat varies in length (short to medium-long)",
+        "coat_colors": "White, fawn, brindle, black, gray, rust",
+        "distinctive_features": "Massive size, imposing presence, powerful build"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, but requires space to patrol",
+        "curiosity": "Observant and cautious, natural guardians",
+        "social_interaction": "Strong-willed, protective, and calm. Bred for guarding livestock, they're natural guardians, wary of strangers, and loyal to family. Needs firm, experienced handlers due to independence and territorial nature.",
+        "affection_level": "Loyal and devoted to family, can be reserved with strangers",
+        "independence": "Highly independent and territorial",
+        "intelligence": "Intelligent but very strong-willed"
+      },
+      "social_compatibility": {
+        "with_humans": "Loyal to family, wary of strangers, needs experienced handlers",
+        "with_pets": "Can be aggressive towards other dogs and animals if not properly socialized and managed from a young age",
+        "with_children": "Not recommended for homes with small children without extreme supervision and socialization due to size and guarding instincts",
+        "environment": "Needs a large, securely fenced property; not suitable for urban or apartment living"
+      },
+      "health_profile": {
+        "lifespan": "12–15 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Elbow Dysplasia",
+          "Heart Disease (e.g., Cardiomyopathy)",
+          "Bloat (Gastric Dilatation-Volvulus - GDV)"
+        ],
+        "preventive_care": [
+          "Early screening for hip/elbow dysplasia",
+          "Proper exercise and diet to manage weight and joint health",
+          "Monitoring for signs of bloat and heart issues"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Moderate. Weekly brushing helps manage seasonal shedding. More frequent grooming during heavy shedding periods.",
+        "bathing": "Occasional bathing as needed",
+        "ear_cleaning": "Regular ear cleaning are essential",
+        "nail_trimming": "Regular nail trimming are essential",
+        "dental_hygiene": "Regular dental hygiene are essential"
+      },
+      "environmental_needs": {
+        "space": "Requires vast space and a securely fenced property for patrolling",
+        "toys_and_enrichment": "Durable chew toys, large interactive toys, sturdy feeders",
+        "temperature_sensitivity": "Tolerant of various climates due to dense coat, but needs shelter and can overheat in extreme heat"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Challenging to train due to high independence and guarding instincts; requires experienced, firm, and consistent leadership",
+        "preferred_activities": "Patrolling property, guarding, moderate walks, obedience drills (basic only)",
+        "socialization_needs": "Early and extensive socialization is crucial but may not completely override natural guarding instincts"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Generally not prone to separation anxiety, as they are independent guardians",
+        "exercise_requirements": "Needs regular exercise, but not excessive, as they prefer to observe and patrol",
+        "health_monitoring": "Monitor for hip/elbow dysplasia, heart disease, and bloat"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Cool, spacious areas, often prefers to be outdoors or in a sheltered outdoor space",
+        "sleep_cycle": "Alternates between periods of alertness/patrolling and deep rest",
+        "activity_vs_rest": "More active during cooler parts of the day and night (natural guarding behavior)",
+        "comfort_preferences": "Prefers firm, sturdy resting spots"
+      }
+    },
+    {
+      "name": "Chihuahua",
+      "basic_information": {
+        "size": "Smallest dog breed (5–8″ tall, 3–6 lbs)",
+        "origin": "Mexico",
+        "lifespan": "Approximately 14–17 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Compact, fragile, delicate",
+        "head_shape": "Domed \"apple\" skull",
+        "eye_shape_and_color": "Large, round, dark or ruby eyes",
+        "ear_shape": "Upright, large and flared",
+        "coat_type": "Two coat types: smooth (short) and long-haired",
+        "coat_colors": "Many colors and patterns (solid, bi-color, tri-color, merle)",
+        "distinctive_features": "Tiny size, large eyes, upright ears, apple head"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, enjoys short bursts of play",
+        "curiosity": "Alert and curious about their surroundings",
+        "social_interaction": "Alert, lively, and loyal. Big personality in a tiny body. Bonds closely with one or two people. May be suspicious of strangers and reactive to other dogs.",
+        "affection_level": "Highly affectionate with their chosen people",
+        "independence": "Can be independent but prefers to be with their owner",
+        "intelligence": "Intelligent and can be very clever, sometimes manipulative"
+      },
+      "social_compatibility": {
+        "with_humans": "Bonds closely with one or two people, can be suspicious of strangers",
+        "with_pets": "May be reactive to other dogs, especially larger ones; careful introductions are needed",
+        "with_children": "Not ideal for homes with very small children due to their fragility and potential to nip if handled roughly",
+        "environment": "Adaptable to apartment living, but requires consistent socialization"
+      },
+      "health_profile": {
+        "lifespan": "14–17 years",
+        "common_genetic_issues": [
+          "Patellar Luxation",
+          "Dental Issues (prone to rapid tartar buildup)",
+          "Tracheal Collapse",
+          "Hydrocephalus",
+          "Hypoglycemia (especially as puppies)"
+        ],
+        "preventive_care": [
+          "Dental care is critical",
+          "Gentle handling is crucial due to fragility",
+          "Monitor for signs of low blood sugar in puppies"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Low for smooth coats; moderate for long coats. Regular brushing (2–3 times/week for long coats).",
+        "bathing": "Occasional bathing as needed",
+        "ear_cleaning": "Regular ear checks",
+        "nail_trimming": "Nail trimming regularly",
+        "dental_hygiene": "Brushing teeth 3–4 times/week is highly recommended"
+      },
+      "environmental_needs": {
+        "space": "Adaptable to small living spaces like apartments",
+        "toys_and_enrichment": "Small chew toys, interactive puzzle toys suitable for their size",
+        "temperature_sensitivity": "Highly sensitive to cold due to their small size and thin coat; requires warm clothing in cold weather. Can also overheat in extreme heat."
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent but can be stubborn; requires consistent, positive reinforcement",
+        "preferred_activities": "Short walks, indoor play, cuddle time",
+        "socialization_needs": "Early and continuous socialization is crucial to prevent fearfulness and reactivity"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Highly prone to separation anxiety if overly attached to one person",
+        "exercise_requirements": "Minimal outdoor exercise needed, but enjoys indoor play",
+        "health_monitoring": "Requires vigilant monitoring for dental, patellar, and respiratory issues"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 14-16 hours per day, includes many naps",
+        "preferred_sleeping_spots": "Warm, cozy spots, often burrowing under blankets or near owners",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "Bursts of lively activity followed by long periods of rest",
+        "comfort_preferences": "Prefers soft, warm, and secure sleeping spots"
+      }
+    },
+    {
+      "name": "Chow Chow",
+      "basic_information": {
+        "size": "Sturdy, square-built (17–20″ tall, 45–70 lbs)",
+        "origin": "China",
+        "lifespan": "Approximately 9–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Sturdy, stocky, with a lion-like mane",
+        "head_shape": "Broad, flat skull",
+        "eye_shape_and_color": "Deep-set, dark, almond-shaped eyes (often obscured by coat)",
+        "ear_shape": "Small, triangular, rounded at the tip, carried stiffly erect",
+        "coat_type": "Dense double coat (smooth or rough)",
+        "coat_colors": "Red, black, blue, cinnamon, cream",
+        "distinctive_features": "Bluish-black tongue, scowling expression, signature mane-like ruff, stilted gait"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, prefers short walks",
+        "curiosity": "Reserved and observant, not overly curious",
+        "social_interaction": "Reserved, dignified, and loyal to family. Aloof with strangers. Independent and cat-like; not overly affectionate. Needs early socialization.",
+        "affection_level": "Loyal and devoted to family, but not demonstrative or clingy",
+        "independence": "Highly independent and self-sufficient, cat-like personality",
+        "intelligence": "Intelligent but very independent and stubborn"
+      },
+      "social_compatibility": {
+        "with_humans": "Loyal to family, aloof with strangers",
+        "with_pets": "Can be dog-aggressive and has a strong prey drive; careful introductions and supervision are crucial",
+        "with_children": "Not recommended for homes with small children due to their reserved nature and potential impatience; best with older, respectful children",
+        "environment": "Adaptable to apartment living if exercised, but prefers a quiet, calm environment"
+      },
+      "health_profile": {
+        "lifespan": "9–15 years",
+        "common_genetic_issues": [
+          "Entropion (eyelid rolling)",
+          "Hip Dysplasia",
+          "Elbow Dysplasia",
+          "Thyroid Issues (Hypothyroidism)",
+          "Heat Intolerance",
+          "Bloat"
+        ],
+        "preventive_care": [
+          "Needs regular vet checks and cool climates",
+          "Monitoring for eye conditions and joint health",
+          "Careful management in hot weather"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "High. Daily brushing, especially during seasonal shedding, to prevent matting. Regular baths and thorough coat maintenance are vital.",
+        "bathing": "Regular baths are vital for coat health",
+        "ear_cleaning": "Regular ear checks and cleaning",
+        "nail_trimming": "Regular nail trimming",
+        "dental_hygiene": "Regular dental hygiene"
+      },
+      "environmental_needs": {
+        "space": "Adaptable to various living situations, but prefers a calm, quiet home",
+        "toys_and_enrichment": "Durable chew toys, moderate interactive toys",
+        "temperature_sensitivity": "Highly sensitive to heat due to their thick double coat; requires protection from overheating in warm climates. Prefers cool environments."
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Challenging to train due to independence and stubbornness; requires consistent, firm, and positive reinforcement from an experienced owner",
+        "preferred_activities": "Short walks, lounging, observing surroundings",
+        "socialization_needs": "Early and extensive socialization is crucial to manage their reserved nature and potential aggression towards strangers/dogs"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Generally not prone to separation anxiety due to their independent nature",
+        "exercise_requirements": "Moderate, but prone to overheating, so exercise needs careful management",
+        "health_monitoring": "Requires constant monitoring for eye, joint, and thyroid issues, as well as heat intolerance"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Cool, comfortable areas, often prefers quiet and private spots",
+        "sleep_cycle": "Alternates between short naps and periods of deeper sleep",
+        "activity_vs_rest": "More inclined to rest and observe, with short periods of activity",
+        "comfort_preferences": "Prefers cool, firm surfaces and sheltered resting spots"
+      }
+    },
+    {
+      "name": "Dachshund",
+      "basic_information": {
+        "size": "Small and long-bodied (8–9″ tall, 16–32 lbs for standard size; miniatures are smaller)",
+        "origin": "Germany",
+        "lifespan": "Approximately 12–16 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Long body, short legs, muscular, compact",
+        "head_shape": "Long, tapering muzzle, slightly arched skull",
+        "eye_shape_and_color": "Oval, medium-sized, dark, intelligent expression",
+        "ear_shape": "Long, floppy ears, set high on the head",
+        "coat_type": "Smooth, wirehaired, or long-haired coats",
+        "coat_colors": "Variety of colors and patterns (e.g., black and tan, red, chocolate, dapple, brindle)",
+        "distinctive_features": "Long, low body; floppy ears; strong prey drive"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate, enjoys short walks and digging",
+        "curiosity": "Highly curious, loves to explore and dig",
+        "social_interaction": "Brave, curious, and stubborn. Can be clownish and independent. Strong prey drive from hunting background. Loyal and sometimes vocal.",
+        "affection_level": "Loyal and affectionate with family",
+        "independence": "Can be independent and stubborn",
+        "intelligence": "Intelligent and clever, but can be difficult to train due to stubbornness"
+      },
+      "social_compatibility": {
+        "with_humans": "Loyal and affectionate with family, can be wary of strangers",
+        "with_pets": "Can get along with other dogs and cats if introduced early, but prey drive can be an issue with smaller non-canine pets",
+        "with_children": "Good with older, respectful children, but smaller children might injure their backs",
+        "environment": "Adaptable to apartment living, but needs safe ways to navigate (ramps instead of stairs)"
+      },
+      "health_profile": {
+        "lifespan": "12–16 years",
+        "common_genetic_issues": [
+          "Intervertebral Disc Disease (IVDD) - serious back problems",
+          "Obesity",
+          "Dental Disease",
+          "Epilepsy",
+          "Patellar Luxation",
+          "Eye issues (e.g., PRA)"
+        ],
+        "preventive_care": [
+          "Avoid stairs and jumping to protect their backs",
+          "Keep weight down to prevent strain on spine",
+          "Regular dental care is essential",
+          "Proper exercise on flat surfaces"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Depends on coat type. Smooth coats are low-maintenance; long and wire-haired need more frequent brushing. Wire-haired may require stripping.",
+        "bathing": "Occasional bathing as needed",
+        "ear_cleaning": "Regular ear cleaning are necessary",
+        "nail_trimming": "Regular nail trims are necessary",
+        "dental_hygiene": "Regular dental care are necessary"
+      },
+      "environmental_needs": {
+        "space": "Adaptable to small living spaces, but needs safe access (ramps)",
+        "toys_and_enrichment": "Durable chew toys, digging boxes (for natural digging instinct), puzzle toys",
+        "temperature_sensitivity": "Moderate, short coats can be sensitive to cold, long/wire coats provide more protection"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent but can be very stubborn; requires consistent, positive reinforcement and patience",
+        "preferred_activities": "Digging, scent work, short walks, indoor games",
+        "socialization_needs": "Early socialization is important to prevent shyness or aggression towards strangers/other dogs"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if left alone for extended periods",
+        "exercise_requirements": "Moderate, but specific attention to back health is crucial; avoid high-impact activities",
+        "health_monitoring": "Requires vigilant monitoring for IVDD and obesity"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Cozy, warm spots, often burrows under blankets",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "Periods of curiosity and play, followed by significant rest periods",
+        "comfort_preferences": "Prefers soft, warm, and enclosed sleeping spots"
+      }
+    },
+    {
+      "name": "Dalmatian",
+      "basic_information": {
+        "size": "Medium-large dog (19–24″ tall, 45–70 lbs)",
+        "origin": "Croatia (historical Dalmatia region)",
+        "lifespan": "Approximately 11–13 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Sleek, muscular, athletic build",
+        "head_shape": "Long muzzle, well-defined stop, skull flat between ears",
+        "eye_shape_and_color": "Medium-sized, round, dark or amber, sometimes blue (heterochromia)",
+        "ear_shape": "Medium-sized, set high, carried close to the head",
+        "coat_type": "Sleek, short white coat with distinct spots",
+        "coat_colors": "White with black or liver spots (born white; spots develop with age)",
+        "distinctive_features": "Unique spotted coat, athletic build, elegant carriage"
+      },
+      "personality_and_behavior": {
+        "activity_level": "High, needs daily mental and physical exercise",
+        "curiosity": "Highly curious and inquisitive",
+        "social_interaction": "Energetic, intelligent, and playful. Loyal and protective. Needs daily mental and physical exercise. Good with families but needs training.",
+        "affection_level": "Affectionate with family, can be reserved with strangers",
+        "independence": "Can be independent but thrives on companionship",
+        "intelligence": "Highly intelligent, but can be headstrong"
+      },
+      "social_compatibility": {
+        "with_humans": "Loyal and protective with family, can be reserved with strangers",
+        "with_pets": "Generally good with other pets if socialized early, but high prey drive requires caution with smaller animals",
+        "with_children": "Good with families, but their energy requires supervision with very young children; best with older, respectful children",
+        "environment": "Adaptable to various living situations if exercised sufficiently, needs a secure yard"
+      },
+      "health_profile": {
+        "lifespan": "11–13 years",
+        "common_genetic_issues": [
+          "Deafness (congenital, can be unilateral or bilateral)",
+          "Urinary Stones (due to uric acid issues - requires special diet)",
+          "Hip Dysplasia",
+          "Skin Allergies"
+        ],
+        "preventive_care": [
+          "Hearing tests (BAER testing) are recommended for puppies",
+          "Special low-purine diet to prevent urinary stones",
+          "Regular vet check-ups and monitoring for skin issues"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Low-to-moderate. Frequent shedding despite short coat. Weekly brushing and occasional baths help.",
+        "bathing": "Occasional baths help manage shedding",
+        "ear_cleaning": "Routine ear care is essential",
+        "nail_trimming": "Routine nail care is essential",
+        "dental_hygiene": "Routine teeth care are essential"
+      },
+      "environmental_needs": {
+        "space": "Needs ample space for exercise, a secure yard is essential",
+        "toys_and_enrichment": "Durable chew toys, interactive puzzle toys, fetching games",
+        "temperature_sensitivity": "Moderate, short coat provides limited protection in extreme cold; can overheat in extreme heat with high activity"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent but can be headstrong; requires consistent, positive reinforcement and early training",
+        "preferred_activities": "Running, jogging, agility, obedience, fetching",
+        "socialization_needs": "Early and continuous socialization is crucial to ensure a well-adjusted and confident temperament"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if left alone for extended periods without adequate exercise or mental stimulation",
+        "exercise_requirements": "High energy levels require significant daily exercise to prevent boredom and destructive behaviors",
+        "health_monitoring": "Requires vigilant monitoring for deafness and urinary stone issues"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable, cool spots, often prefers to be near family",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "Periods of high energy and activity followed by substantial rest",
+        "comfort_preferences": "Prefers soft, supportive surfaces"
+      }
+    },
+    {
+      "name": "Dobermann",
+      "basic_information": {
+        "size": "Sleek, powerful, and elegant (24–28″ tall, 60–100 lbs)",
+        "origin": "Germany",
+        "lifespan": "Approximately 10–13 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Muscular, compact, elegant",
+        "head_shape": "Long, wedge-shaped head",
+        "eye_shape_and_color": "Almond-shaped, dark, intelligent expression",
+        "ear_shape": "Set high, often cropped (varies by region)",
+        "coat_type": "Short, smooth, dense coat",
+        "coat_colors": "Black, blue, red, or fawn with rust markings",
+        "distinctive_features": "Sleek build, powerful presence, often cropped ears and docked tail (where permitted)"
+      },
+      "personality_and_behavior": {
+        "activity_level": "High, needs vigorous daily exercise",
+        "curiosity": "Alert and highly observant",
+        "social_interaction": "Alert, loyal, and intelligent. Excellent guard dog with a loving side. Requires early socialization and training. Bonds closely with owner.",
+        "affection_level": "Bonds closely with owner, can be very affectionate",
+        "independence": "Can be independent but thrives on human interaction",
+        "intelligence": "Highly intelligent and trainable"
+      },
+      "social_compatibility": {
+        "with_humans": "Bonds closely with owner, protective, can be wary of strangers",
+        "with_pets": "Generally good with other pets if socialized from a young age",
+        "with_children": "Good with children in their family if properly socialized and supervised",
+        "environment": "Adaptable to various living situations if exercised sufficiently, needs a secure yard"
+      },
+      "health_profile": {
+        "lifespan": "10–13 years",
+        "common_genetic_issues": [
+          "Dilated Cardiomyopathy (DCM) - heart condition",
+          "Von Willebrand's Disease (vWD) - bleeding disorder",
+          "Hip Dysplasia",
+          "Hypothyroidism",
+          "Cervical Vertebral Instability (Wobbler Syndrome)"
+        ],
+        "preventive_care": [
+          "Regular vet checks, including cardiac screening",
+          "Genetic testing for vWD",
+          "Proper diet and exercise"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Easy. Short coat needs weekly brushing.",
+        "bathing": "Occasional bathing as needed",
+        "ear_cleaning": "Clean ears regularly",
+        "nail_trimming": "Trim nails regularly",
+        "dental_hygiene": "Dental care is also important"
+      },
+      "environmental_needs": {
+        "space": "Needs ample space for exercise, a secure yard is essential",
+        "toys_and_enrichment": "Durable chew toys, interactive puzzle toys, obedience training aids",
+        "temperature_sensitivity": "Moderate, short coat provides limited protection in extreme cold"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly intelligent and eager to please, responds well to consistent training from a firm but fair owner",
+        "preferred_activities": "Obedience, protection work, agility, tracking, fetch",
+        "socialization_needs": "Early and extensive socialization is crucial to develop a well-rounded and stable temperament"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if left alone for extended periods without adequate mental or physical stimulation",
+        "exercise_requirements": "High energy levels require significant daily exercise and mental challenges",
+        "health_monitoring": "Requires vigilant monitoring for heart conditions and bleeding disorders"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable beds, often prefers to be near family members",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "Periods of high activity followed by substantial rest and lounging",
+        "comfort_preferences": "Prefers soft, supportive bedding"
+      }
+    },
+    {
+      "name": "Dogo Argentino",
+      "basic_information": {
+        "size": "Large, muscular (24–27″ tall, 80–100 lbs)",
+        "origin": "Argentina",
+        "lifespan": "Approximately 10–12 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Massive, muscular build, athletic",
+        "head_shape": "Broad head, strong jaw",
+        "eye_shape_and_color": "Dark or hazel, set wide apart",
+        "ear_shape": "Set high, often cropped (varies by region)",
+        "coat_type": "Pure white, short coat",
+        "coat_colors": "Pure white; occasionally a dark spot near one eye",
+        "distinctive_features": "Pure white coat, muscular build, powerful appearance"
+      },
+      "personality_and_behavior": {
+        "activity_level": "High, needs vigorous exercise and mental stimulation",
+        "curiosity": "Curious and alert",
+        "social_interaction": "Confident, courageous, and protective. Originally bred for big game hunting. Needs experienced handler due to strong guarding instincts. Loyal to family.",
+        "affection_level": "Loyal and affectionate with family, can be reserved with strangers",
+        "independence": "Independent, but thrives with strong leadership",
+        "intelligence": "Intelligent and strong-willed, requires consistent training"
+      },
+      "social_compatibility": {
+        "with_humans": "Loyal to family, protective, needs experienced handler",
+        "with_pets": "Can have a strong prey drive and be dog-aggressive; requires early and extensive socialization, and careful management",
+        "with_children": "Generally good with children in their family if properly socialized and supervised, but size and power require caution",
+        "environment": "Needs a very secure, large outdoor space; not suitable for apartment living or novice owners"
+      },
+      "health_profile": {
+        "lifespan": "10–12 years",
+        "common_genetic_issues": [
+          "Deafness (especially in all-white lines)",
+          "Hip Dysplasia",
+          "Skin Allergies (especially white coat related issues)",
+          "Bloat"
+        ],
+        "preventive_care": [
+          "Hearing tests (BAER testing) recommended for puppies",
+          "Early health screening for hip dysplasia and skin allergies",
+          "Proper diet and exercise"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Low. Occasional baths and weekly brushing.",
+        "bathing": "Occasional baths as needed",
+        "ear_cleaning": "Routine ear care are routine needs",
+        "nail_trimming": "Routine nail care are routine needs",
+        "dental_hygiene": "Routine teeth care are routine needs"
+      },
+      "environmental_needs": {
+        "space": "Needs vast space for exercise, a very secure yard is essential",
+        "toys_and_enrichment": "Extremely durable chew toys, strong tug toys, interactive games",
+        "temperature_sensitivity": "Moderate, short white coat can be sensitive to strong sun and prone to sunburn; can overheat in extreme heat"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent and capable, but requires consistent, firm, and positive reinforcement from an experienced owner; not for novices",
+        "preferred_activities": "Tracking, obedience, agility, protection work, long walks/hikes",
+        "socialization_needs": "Early and extensive socialization is crucial to manage their temperament and strong guarding instincts"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if not given enough mental and physical stimulation, or left alone for too long",
+        "exercise_requirements": "High energy demands, requires significant daily vigorous exercise and mental challenges",
+        "health_monitoring": "Requires vigilant monitoring for deafness, hip dysplasia, and skin allergies"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Cool, comfortable, and spacious areas",
+        "sleep_cycle": "Alternates between short naps and longer periods of deep sleep",
+        "activity_vs_rest": "Periods of high activity followed by substantial rest and lounging",
+        "comfort_preferences": "Prefers sturdy, supportive bedding, can enjoy cooler surfaces"
+      }
+    },
+    {
+      "name": "Dogue de Bordeaux",
+      "basic_information": {
+        "size": "Stocky and powerful (23–27″ tall, 100+ lbs)",
+        "origin": "France",
+        "lifespan": "Approximately 5–8 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Massive, muscular, heavy-boned, with loose skin",
+        "head_shape": "Massive head, short muzzle, wrinkled face with undershot jaw",
+        "eye_shape_and_color": "Oval, amber to dark brown, set wide apart, serious expression",
+        "ear_shape": "Medium-sized, triangular, drooping, set high",
+        "coat_type": "Short, fawn coat",
+        "coat_colors": "Fawn (various shades from mahogany to Isabella), with or without a black mask",
+        "distinctive_features": "Massive head, deeply wrinkled face, loose skin, undershot jaw"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Low to moderate, prone to overheating and can be lazy",
+        "curiosity": "Observant and calm",
+        "social_interaction": "Calm, affectionate, and loyal. Gentle giant with family, but needs early training and socialization due to guarding instincts. Protective yet mellow.",
+        "affection_level": "Very affectionate and loyal to family, loves to cuddle",
+        "independence": "Can be independent but prefers companionship",
+        "intelligence": "Intelligent but can be stubborn"
+      },
+      "social_compatibility": {
+        "with_humans": "Gentle giant with family, protective, needs early training and socialization",
+        "with_pets": "Generally good with other pets if raised with them and socialized",
+        "with_children": "Good with children, but supervision is needed due to their size",
+        "environment": "Adaptable to apartment living if given proper care, but needs space and tolerates heat poorly"
+      },
+      "health_profile": {
+        "lifespan": "5–8 years (short lifespan)",
+        "common_genetic_issues": [
+          "Heart Disease (e.g., Aortic Stenosis, Cardiomyopathy)",
+          "Hip Dysplasia",
+          "Elbow Dysplasia",
+          "Bloat (Gastric Dilatation-Volvulus - GDV)",
+          "Ectropion / Entropion (eye issues)",
+          "Cancer"
+        ],
+        "preventive_care": [
+          "Needs careful monitoring and health screening throughout life",
+          "Regular vet checks, including cardiac exams",
+          "Weight management to reduce strain on joints and heart"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Moderate. Weekly brushing and wrinkle cleaning. Bathe monthly or as needed.",
+        "bathing": "Bathe monthly or as needed",
+        "ear_cleaning": "Maintain ears regularly",
+        "nail_trimming": "Maintain nails regularly",
+        "dental_hygiene": "Maintain teeth regularly"
+      },
+      "environmental_needs": {
+        "space": "Needs moderate space, prefers lounging indoors",
+        "toys_and_enrichment": "Durable chew toys, puzzle toys",
+        "temperature_sensitivity": "Highly sensitive to heat and humidity due to brachycephalic nature; prone to overheating. Requires a cool environment."
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent but can be stubborn; requires consistent, firm, and positive reinforcement from an experienced owner",
+        "preferred_activities": "Short walks, lounging, puzzle toys",
+        "socialization_needs": "Early and consistent socialization is crucial to manage their guarding instincts and ensure a stable temperament"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if not given enough attention or companionship",
+        "exercise_requirements": "Low to moderate, but must be carefully managed to avoid overheating and joint strain",
+        "health_monitoring": "Requires constant vigilance for heart, joint, and respiratory issues, and heat intolerance"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Cool, comfortable, and spacious areas, often snores loudly",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "More inclined to rest and lounge, with short bursts of activity",
+        "comfort_preferences": "Prefers soft, supportive beds and cool surfaces"
+      }
+    },
+    {
+      "name": "English Bulldog",
+      "basic_information": {
+        "size": "Medium-sized (40–55 lbs), heavily built",
+        "origin": "England",
+        "lifespan": "Approximately 8–10 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Heavily built with short limbs, loose skin",
+        "head_shape": "Distinctive wrinkled face, short muzzle, broad head",
+        "eye_shape_and_color": "Round, dark, set low and wide apart",
+        "ear_shape": "Small, thin, set high on the head, often 'rose' ears",
+        "coat_type": "Short, smooth coat",
+        "coat_colors": "Typically fawn, white, brindle, or piebald (combination of white and patches)",
+        "distinctive_features": "Wrinkled face, undershot jaw, rolling gait, short tail"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Low, prone to overheating with overexertion",
+        "curiosity": "Moderate, enjoys exploring at a slow pace",
+        "social_interaction": "Gentle, calm, and affectionate. Low energy but stubborn. Loyal and people-oriented. Great with children and urban living.",
+        "affection_level": "Very affectionate, loves human companionship",
+        "independence": "Can be stubborn but loves being part of the family",
+        "intelligence": "Intelligent but can be stubborn, requires patient training"
+      },
+      "social_compatibility": {
+        "with_humans": "Gentle, calm, and affectionate; great with families",
+        "with_pets": "Generally good with other pets if socialized from a young age",
+        "with_children": "Great with children",
+        "environment": "Adapts well to urban living and apartments, but cannot tolerate extreme temperatures"
+      },
+      "health_profile": {
+        "lifespan": "8–10 years",
+        "common_genetic_issues": [
+          "Brachycephalic Obstructive Airway Syndrome (BOAS) - respiratory problems",
+          "Overheating",
+          "Skin Fold Infections",
+          "Hip Dysplasia",
+          "Heart Disease (e.g., Pulmonary Stenosis)",
+          "Cherry Eye",
+          "Luxating Patella"
+        ],
+        "preventive_care": [
+          "Requires diligent care to prevent overheating and respiratory distress",
+          "Clean facial folds daily to prevent infection",
+          "Regular vet care and weight management"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Low-maintenance coat, but high wrinkle care. Clean folds daily to prevent infection. Weekly brushing.",
+        "bathing": "Occasional bathing as needed",
+        "ear_cleaning": "Regular ear checks",
+        "nail_trimming": "Nail trimming regularly",
+        "dental_hygiene": "Teeth brushing recommended"
+      },
+      "environmental_needs": {
+        "space": "Adaptable to apartment living, minimal outdoor space needed if daily walks are provided",
+        "toys_and_enrichment": "Durable chew toys, puzzle toys (easy to manipulate)",
+        "temperature_sensitivity": "Extremely sensitive to heat and humidity due to brachycephalic nature. Prone to overheating."
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent but can be stubborn; requires patient, consistent, and positive reinforcement",
+        "preferred_activities": "Short walks, indoor play, lounging with family",
+        "socialization_needs": "Early socialization is beneficial for a well-rounded temperament"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if left alone for extended periods, but generally more tolerant than some breeds",
+        "exercise_requirements": "Low to moderate, but must be managed carefully to avoid overheating",
+        "health_monitoring": "Requires constant monitoring for respiratory issues and heat intolerance, and regular cleaning of skin folds"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Cool, comfortable spots, often prefers to sleep near family members",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep, often snores loudly",
+        "activity_vs_rest": "More prone to rest and lounging, with short bursts of activity",
+        "comfort_preferences": "Prefers soft, supportive beds and cool surfaces"
+      }
+    },
+    {
+      "name": "English Cocker Spaniel",
+      "basic_information": {
+        "size": "Medium-sized (15–17″ tall, 26–34 lbs)",
+        "origin": "England",
+        "lifespan": "Approximately 12–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Compact, sturdy, well-balanced, athletic",
+        "head_shape": "Noble and well-defined, with a gentle expression",
+        "eye_shape_and_color": "Oval, dark, expressive eyes",
+        "ear_shape": "Long, floppy ears with feathering",
+        "coat_type": "Long, silky coat with feathering on ears, legs, and chest",
+        "coat_colors": "Solid, roan, or parti-colored (various combinations of colors)",
+        "distinctive_features": "Long, floppy ears; cheerful expression; feathered coat"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate to high, enjoys active play and walks",
+        "curiosity": "Curious and eager to explore",
+        "social_interaction": "Cheerful, affectionate, and playful. Sociable and intelligent. Good with families and responsive to training. Enjoys moderate exercise and games.",
+        "affection_level": "Very affectionate and eager to please",
+        "independence": "Prefers companionship, not highly independent",
+        "intelligence": "Intelligent and sociable, responsive to training"
+      },
+      "social_compatibility": {
+        "with_humans": "Good with families, sociable with people",
+        "with_pets": "Generally good with other pets",
+        "with_children": "Good with children, playful and gentle",
+        "environment": "Adaptable to various living situations if exercised sufficiently"
+      },
+      "health_profile": {
+        "lifespan": "12–15 years",
+        "common_genetic_issues": [
+          "Ear Infections (due to long, floppy ears)",
+          "Hip Dysplasia",
+          "Progressive Retinal Atrophy (PRA) - eye disease",
+          "Hypothyroidism",
+          "Familial Nephropathy (kidney disease)"
+        ],
+        "preventive_care": [
+          "Regular ear cleaning and checks to prevent infection",
+          "Regular vet checks to monitor for joint, eye, and thyroid issues",
+          "Balanced diet and exercise"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Moderate to high. Brush several times a week to prevent mats. Regular ear cleaning and grooming of feathered areas. Bathing every 4–6 weeks.",
+        "bathing": "Bathing every 4–6 weeks or as needed",
+        "ear_cleaning": "Regular ear cleaning to prevent infection",
+        "nail_trimming": "Regular nail trimming",
+        "dental_hygiene": "Regular dental care"
+      },
+      "environmental_needs": {
+        "space": "Adaptable to various living spaces, enjoys indoor and outdoor play",
+        "toys_and_enrichment": "Interactive toys, fetching games, puzzle toys",
+        "temperature_sensitivity": "Moderate, feathered coat can lead to overheating in extreme heat with high activity"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Intelligent and eager to please, responds well to positive reinforcement",
+        "preferred_activities": "Retrieving, agility, obedience, long walks, swimming",
+        "socialization_needs": "Early and consistent socialization is beneficial for a well-rounded temperament"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if left alone for extended periods, as they thrive on companionship",
+        "exercise_requirements": "Needs moderate to high daily exercise to prevent boredom and maintain health",
+        "health_monitoring": "Requires consistent monitoring for ear and eye problems"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable beds, soft blankets, often near family members",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "Balanced between playful energy and restful periods",
+        "comfort_preferences": "Prefers soft, cozy, and warm sleeping spots"
+      }
+    },
+    {
+      "name": "English Pointer",
+      "basic_information": {
+        "size": "Lean and athletic (23–28″ tall, 45–75 lbs)",
+        "origin": "England",
+        "lifespan": "Approximately 12–15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Lean, muscular, athletic, built for endurance",
+        "head_shape": "Long muzzle, well-defined stop",
+        "eye_shape_and_color": "Dark or hazel, intelligent and alert expression",
+        "ear_shape": "Medium-sized, set high, hanging close to the head",
+        "coat_type": "Short, smooth coat",
+        "coat_colors": "Liver, lemon, black, or orange (solid or with white)",
+        "distinctive_features": "Lean build, graceful stance, pointer stance while hunting"
+      },
+      "personality_and_behavior": {
+        "activity_level": "High, needs active lifestyle and significant exercise",
+        "curiosity": "Highly curious and attentive to their environment, especially scents",
+        "social_interaction": "Energetic, alert, and intelligent. Bred for hunting; needs active lifestyle. Friendly and eager to please. Good with families if exercised adequately.",
+        "affection_level": "Friendly and affectionate with family",
+        "independence": "Can be independent, but thrives with family interaction",
+        "intelligence": "Intelligent, eager to please, and highly trainable"
+      },
+      "social_compatibility": {
+        "with_humans": "Friendly and eager to please, good with families",
+        "with_pets": "Generally good with other dogs, can have a prey drive with smaller non-canine pets",
+        "with_children": "Good with families if exercised adequately, patient with children",
+        "environment": "Needs ample space for exercise, secure yard is essential; not suitable for apartment living without extensive outdoor activity"
+      },
+      "health_profile": {
+        "lifespan": "12–15 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Elbow Dysplasia",
+          "Epilepsy",
+          "Allergies",
+          "Hypothyroidism",
+          "Eye conditions (e.g., PRA)"
+        ],
+        "preventive_care": [
+          "Generally healthy; watch for hip dysplasia, epilepsy, allergies, and hypothyroidism",
+          "Regular vet check-ups",
+          "Proper diet and exercise"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Low. Weekly brushing to control shedding. Occasional baths.",
+        "bathing": "Occasional baths as needed",
+        "ear_cleaning": "Routine ear checks and cleaning (especially after outdoor activity)",
+        "nail_trimming": "Routine nail trimming",
+        "dental_hygiene": "Routine teeth care"
+      },
+      "environmental_needs": {
+        "space": "Requires vast space and opportunities for running and exercise",
+        "toys_and_enrichment": "Fetching toys, scent games, agility training equipment",
+        "temperature_sensitivity": "Moderate, short coat provides limited protection in cold weather; can overheat in extreme heat with high activity"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly intelligent and eager to please, responds well to consistent training",
+        "preferred_activities": "Hunting, running, agility, obedience, fetching",
+        "socialization_needs": "Early and consistent socialization is crucial for a well-adjusted temperament"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if not given enough exercise and mental stimulation, leading to destructive behavior",
+        "exercise_requirements": "Very high energy demands, requires significant daily vigorous exercise",
+        "health_monitoring": "Generally healthy, but monitor for specific genetic conditions"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable, cool spots, often prefers to be near family",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "Periods of high energy and activity followed by substantial rest",
+        "comfort_preferences": "Prefers soft, supportive bedding"
+      }
+    },
+    {
+      "name": "English Springer Spaniel",
+      "basic_information": {
+        "size": "Medium-sized (19–20″ tall, 40–50 lbs)",
+        "origin": "England",
+        "lifespan": "Approximately 12–14 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Compact, sturdy, athletic, well-balanced",
+        "head_shape": "Moderately long, slightly rounded, with a gentle expression",
+        "eye_shape_and_color": "Oval, dark hazel, expressive eyes",
+        "ear_shape": "Long, drooping ears, set close to the head",
+        "coat_type": "Medium-length coat with feathering",
+        "coat_colors": "Liver-and-white or black-and-white coloring common, tri-color also exists",
+        "distinctive_features": "Feathered coat, floppy ears, expressive eyes"
+      },
+      "personality_and_behavior": {
+        "activity_level": "High, loves outdoor activity and retrieving",
+        "curiosity": "Highly curious and eager to explore, especially in nature",
+        "social_interaction": "Friendly, obedient, and enthusiastic. Bred for retrieving; loves water and outdoor activity. Great with kids and other pets. Needs stimulation and companionship.",
+        "affection_level": "Very affectionate and loving",
+        "independence": "Craves companionship, not highly independent",
+        "intelligence": "Intelligent and eager to please, highly trainable"
+      },
+      "social_compatibility": {
+        "with_humans": "Friendly, obedient, and enthusiastic; great with families",
+        "with_pets": "Great with other pets if socialized",
+        "with_children": "Great with kids, patient and playful",
+        "environment": "Adaptable to various living situations if exercised sufficiently, loves outdoor environments"
+      },
+      "health_profile": {
+        "lifespan": "12–14 years",
+        "common_genetic_issues": [
+          "Hip Dysplasia",
+          "Elbow Dysplasia",
+          "Ear Infections (due to floppy ears)",
+          "Eye Disorders (e.g., Progressive Retinal Atrophy - PRA, Cataracts)",
+          "Rage Syndrome (rare behavioral condition)"
+        ],
+        "preventive_care": [
+          "Regular vet checks to monitor for joint and eye issues",
+          "Regular ear cleaning to prevent infections",
+          "Proper diet and exercise"
+        ]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Moderate. Brush 2–3 times a week. Regular ear checks to prevent infection. Trim coat and feathering areas as needed. Bathe every 4–6 weeks.",
+        "bathing": "Bathe every 4–6 weeks or as needed",
+        "ear_cleaning": "Regular ear checks to prevent infection",
+        "nail_trimming": "Regular nail trimming",
+        "dental_hygiene": "Regular dental care"
+      },
+      "environmental_needs": {
+        "space": "Needs ample space for exercise, loves outdoor areas with water access",
+        "toys_and_enrichment": "Fetching toys, swimming opportunities, puzzle toys",
+        "temperature_sensitivity": "Moderate, double coat provides good insulation but can overheat in extreme heat with high activity"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly intelligent and eager to please, responds well to positive reinforcement",
+        "preferred_activities": "Retrieving, swimming, agility, obedience, hunting",
+        "socialization_needs": "Early and consistent socialization is crucial for a well-adjusted temperament and to reduce potential shyness"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Can develop if not given enough attention and exercise",
+        "exercise_requirements": "High energy demands, requires significant daily vigorous exercise and mental stimulation",
+        "health_monitoring": "Monitor for hip dysplasia, ear infections, and eye disorders"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "Typically 12-14 hours per day",
+        "preferred_sleeping_spots": "Comfortable beds, often prefers to be near family after active periods",
+        "sleep_cycle": "Alternates between short naps and periods of deep sleep",
+        "activity_vs_rest": "Periods of high energy and activity followed by substantial rest",
+        "comfort_preferences": "Prefers soft, supportive bedding"
+      }
+    },
+    {
+      "name": "French Bulldog",
+      "basic_information": {
+        "size": "Small (11-13 inches tall, 16-28 lbs)",
+        "origin": "France",
+        "lifespan": "10-12 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Compact, muscular",
+        "head_shape": "Square, flat-faced",
+        "eye_shape_and_color": "Round, dark",
+        "ear_shape": "Bat-like, erect",
+        "coat_type": "Short, smooth",
+        "coat_colors": "Brindle, fawn, white, cream, pied",
+        "distinctive_features": "Brachycephalic face, expressive"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate",
+        "curiosity": "Playfully curious",
+        "social_interaction": "Extremely affectionate",
+        "affection_level": "Very high (companion breed)",
+        "independence": "Low (hates being alone)",
+        "intelligence": "Intelligent but stubborn"
+      },
+      "social_compatibility": {
+        "with_humans": "Loves everyone",
+        "with_pets": "Good with other pets",
+        "with_children": "Excellent with kids",
+        "environment": "Perfect for apartments"
+      },
+      "health_profile": {
+        "lifespan": "10-12 years",
+        "common_genetic_issues": ["Brachycephalic syndrome", "IVDD", "Allergies"],
+        "preventive_care": ["Weight control", "Avoid overheating", "Joint care"]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing",
+        "bathing": "Monthly",
+        "ear_cleaning": "Weekly",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Daily brushing (prone to issues)"
+      },
+      "environmental_needs": {
+        "space": "Apartment-friendly",
+        "toys_and_enrichment": "Interactive puzzles, moderate chew toys",
+        "temperature_sensitivity": "Extremely heat-sensitive"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Moderate (food-motivated)",
+        "preferred_activities": "Short walks, indoor games",
+        "socialization_needs": "Early socialization prevents stubbornness"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "High",
+        "exercise_requirements": "Low (20-30 mins/day)",
+        "health_monitoring": "Breathing, spine, weight"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "14-16 hours/day",
+        "preferred_sleeping_spots": "In bed with owners",
+        "sleep_cycle": "Heavy snorer",
+        "activity_vs_rest": "Playful bursts then long naps",
+        "comfort_preferences": "Cool, well-ventilated areas"
+      }
+    },
+    {
+      "name": "German Shepherd Dog",
+      "basic_information": {
+        "size": "Large (22-26 inches tall, 50-90 lbs)",
+        "origin": "Germany",
+        "lifespan": "9-13 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Athletic, muscular",
+        "head_shape": "Noble, wedge-shaped",
+        "eye_shape_and_color": "Almond-shaped, dark",
+        "ear_shape": "Large, pointed",
+        "coat_type": "Double coat (medium or long)",
+        "coat_colors": "Black/tan, sable, solid black",
+        "distinctive_features": "Confident stance, intelligent expression"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Very high",
+        "curiosity": "Highly observant",
+        "social_interaction": "Loyal to family, reserved with strangers",
+        "affection_level": "Very loyal",
+        "independence": "Moderate (wants to work)",
+        "intelligence": "Exceptionally intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Devoted to family",
+        "with_pets": "Good if raised together",
+        "with_children": "Excellent with family kids",
+        "environment": "House with yard preferred"
+      },
+      "health_profile": {
+        "lifespan": "9-13 years",
+        "common_genetic_issues": ["Hip dysplasia", "Degenerative myelopathy", "Bloat"],
+        "preventive_care": ["Joint supplements", "Neurological screenings", "Slow feeders"]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Brush 3-4 times weekly (daily when shedding)",
+        "bathing": "Every 2-3 months",
+        "ear_cleaning": "Weekly",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Daily brushing"
+      },
+      "environmental_needs": {
+        "space": "House with secure yard",
+        "toys_and_enrichment": "Protection sports, advanced obedience",
+        "temperature_sensitivity": "Moderate (thick coat)"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly trainable",
+        "preferred_activities": "Schutzhund, agility, scent work",
+        "socialization_needs": "Early and extensive socialization"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Moderate",
+        "exercise_requirements": "Very high (needs job/tasks)",
+        "health_monitoring": "Joints, neurological health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12-14 hours/day",
+        "preferred_sleeping_spots": "Guard positions near family",
+        "sleep_cycle": "Light sleeper (protective instinct)",
+        "activity_vs_rest": "Energetic when working, rests deeply",
+        "comfort_preferences": "Large orthopedic beds"
+      }
+    },
+    {
+      "name": "German Shorthaired Pointer",
+      "basic_information": {
+        "size": "Medium-large (21-25 inches tall, 45-70 lbs)",
+        "origin": "Germany",
+        "lifespan": "12-14 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Athletic, streamlined",
+        "head_shape": "Noble, well-chiseled",
+        "eye_shape_and_color": "Medium, brown",
+        "ear_shape": "Broad, set high",
+        "coat_type": "Short, dense",
+        "coat_colors": "Liver, liver/white, black/white",
+        "distinctive_features": "Webbed feet, sleek appearance"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Very high",
+        "curiosity": "Extremely investigative",
+        "social_interaction": "Friendly but focused",
+        "affection_level": "Loyal to family",
+        "independence": "Moderate (hunting instincts)",
+        "intelligence": "Highly intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Bonds strongly with active owners",
+        "with_pets": "High prey drive (caution with small pets)",
+        "with_children": "Good with active children",
+        "environment": "Requires space to run"
+      },
+      "health_profile": {
+        "lifespan": "12-14 years",
+        "common_genetic_issues": ["Hip dysplasia", "Bloat", "Eye disorders"],
+        "preventive_care": ["Joint supplements", "Slow feeders", "Eye exams"]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing",
+        "bathing": "As needed",
+        "ear_cleaning": "Weekly",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Daily brushing"
+      },
+      "environmental_needs": {
+        "space": "House with large yard essential",
+        "toys_and_enrichment": "Hunting simulations, swimming",
+        "temperature_sensitivity": "Moderate (provide shade)"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly trainable (needs purpose)",
+        "preferred_activities": "Field trials, dock diving",
+        "socialization_needs": "Early socialization critical"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Moderate",
+        "exercise_requirements": "Very high (2+ hours/day)",
+        "health_monitoring": "Joints, stomach, eyes"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12-14 hours/day",
+        "preferred_sleeping_spots": "Cool surfaces after exercise",
+        "sleep_cycle": "Deep sleeper after activity",
+        "activity_vs_rest": "Very active when awake",
+        "comfort_preferences": "Cool, hard surfaces"
+      }
+    },
+    {
+      "name": "German Spitz (Pomeranian)",
+      "basic_information": {
+        "size": "Toy (6-7 inches tall, 3-7 lbs)",
+        "origin": "Germany",
+        "lifespan": "12-16 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Compact, square",
+        "head_shape": "Fox-like, wedge-shaped",
+        "eye_shape_and_color": "Almond, dark",
+        "ear_shape": "Small, pointed",
+        "coat_type": "Double coat (fluffy undercoat)",
+        "coat_colors": "Orange, black, cream, white",
+        "distinctive_features": "Plumed tail, ruff neck"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate to high",
+        "curiosity": "Very alert",
+        "social_interaction": "Bold and confident",
+        "affection_level": "Very affectionate",
+        "independence": "Moderate (companion-oriented)",
+        "intelligence": "Highly intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Loves attention",
+        "with_pets": "Good with similar-sized dogs",
+        "with_children": "Best with older children",
+        "environment": "Apartment-friendly"
+      },
+      "health_profile": {
+        "lifespan": "12-16 years",
+        "common_genetic_issues": ["Luxating patella", "Tracheal collapse", "Dental issues"],
+        "preventive_care": ["Dental cleanings", "Joint supplements", "Harness use"]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Brush 2-3 times weekly",
+        "bathing": "Monthly",
+        "ear_cleaning": "Weekly",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Daily brushing essential"
+      },
+      "environmental_needs": {
+        "space": "Apartment-friendly",
+        "toys_and_enrichment": "Puzzle toys, short walks",
+        "temperature_sensitivity": "Cold-sensitive (provide sweaters)"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Moderate (can be stubborn)",
+        "preferred_activities": "Trick training, agility",
+        "socialization_needs": "Early socialization prevents small dog syndrome"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "High",
+        "exercise_requirements": "Low (short walks sufficient)",
+        "health_monitoring": "Teeth, knees, respiratory system"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "14-16 hours/day",
+        "preferred_sleeping_spots": "In owner's lap or bed",
+        "sleep_cycle": "Frequent naps",
+        "activity_vs_rest": "Active in short bursts",
+        "comfort_preferences": "Soft, warm spaces"
+      }
+    },
+    {
+      "name": "Golden_retriever",
+      "basic_information": {
+        "size": "Large (21-24 inches tall, 55-75 lbs)",
+        "origin": "Scotland",
+        "lifespan": "10-12 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Balanced, muscular",
+        "head_shape": "Broad, friendly expression",
+        "eye_shape_and_color": "Medium, dark brown",
+        "ear_shape": "Short, hanging close",
+        "coat_type": "Dense, water-repellent",
+        "coat_colors": "Golden shades (light to dark)",
+        "distinctive_features": "Feathered tail, kind eyes"
+      },
+      "personality_and_behavior": {
+        "activity_level": "High",
+        "curiosity": "Friendly and outgoing",
+        "social_interaction": "Loves everyone",
+        "affection_level": "Very high",
+        "independence": "Low (companion-oriented)",
+        "intelligence": "Highly intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Excellent family dog",
+        "with_pets": "Great with other animals",
+        "with_children": "Perfect with kids",
+        "environment": "Adaptable but needs exercise"
+      },
+      "health_profile": {
+        "lifespan": "10-12 years",
+        "common_genetic_issues": ["Hip dysplasia", "Cancer", "Heart conditions"],
+        "preventive_care": ["Joint supplements", "Regular vet checks", "Weight management"]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Brush 3-4 times weekly",
+        "bathing": "Every 6-8 weeks",
+        "ear_cleaning": "Weekly",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Daily brushing"
+      },
+      "environmental_needs": {
+        "space": "House with yard preferred",
+        "toys_and_enrichment": "Fetch toys, swimming",
+        "temperature_sensitivity": "Moderate (thick coat)"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Very easy (eager to please)",
+        "preferred_activities": "Retrieving, obedience",
+        "socialization_needs": "Naturally friendly"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Moderate",
+        "exercise_requirements": "High (1+ hours/day)",
+        "health_monitoring": "Joints, weight, cancer screening"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12-14 hours/day",
+        "preferred_sleeping_spots": "Near family members",
+        "sleep_cycle": "Deep sleeper after activity",
+        "activity_vs_rest": "Energetic when awake",
+        "comfort_preferences": "Large orthopedic beds"
+      }
+    },
+    {
+      "name": "Great Dane",
+      "basic_information": {
+        "size": "Giant (28-34 inches tall, 110-175 lbs)",
+        "origin": "Germany",
+        "lifespan": "7-10 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Square-proportioned, noble",
+        "head_shape": "Rectangular, long",
+        "eye_shape_and_color": "Medium, dark",
+        "ear_shape": "Natural or cropped (erect)",
+        "coat_type": "Short, thick",
+        "coat_colors": "Fawn, brindle, blue, black, harlequin",
+        "distinctive_features": "Majestic stature, elegant movement"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate for size",
+        "curiosity": "Gentle and observant",
+        "social_interaction": "Friendly 'gentle giant'",
+        "affection_level": "Very affectionate",
+        "independence": "Low (companion-oriented)",
+        "intelligence": "Highly intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Excellent family dog",
+        "with_pets": "Good with proper introduction",
+        "with_children": "Gentle but needs supervision due to size",
+        "environment": "Spacious home required"
+      },
+      "health_profile": {
+        "lifespan": "7-10 years",
+        "common_genetic_issues": ["Bloat (GDV)", "Cardiomyopathy", "Hip dysplasia"],
+        "preventive_care": ["Gastric tacking surgery", "Heart screenings", "Elevated feeders"]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing",
+        "bathing": "Every 6-8 weeks",
+        "ear_cleaning": "Weekly",
+        "nail_trimming": "Monthly (critical for joint health)",
+        "dental_hygiene": "Daily brushing"
+      },
+      "environmental_needs": {
+        "space": "Extra-large living space",
+        "toys_and_enrichment": "Oversized durable toys",
+        "temperature_sensitivity": "Sensitive to extreme temperatures"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Moderate (gentle but clumsy)",
+        "preferred_activities": "Leisurely walks, obedience",
+        "socialization_needs": "Early socialization critical"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "High",
+        "exercise_requirements": "Moderate (avoid overexertion)",
+        "health_monitoring": "Heart, stomach, joints"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "14-16 hours/day",
+        "preferred_sleeping_spots": "Extra-large orthopedic beds",
+        "sleep_cycle": "Deep sleeper",
+        "activity_vs_rest": "Calm when indoors",
+        "comfort_preferences": "Spacious sleeping areas"
+      }
+    },
+    {
+      "name": "Greyhound",
+      "basic_information": {
+        "size": "Large (27-30 inches tall, 60-70 lbs)",
+        "origin": "Ancient Egypt",
+        "lifespan": "10-14 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Sleek, aerodynamic",
+        "head_shape": "Long, narrow",
+        "eye_shape_and_color": "Almond, dark",
+        "ear_shape": "Small, rose-shaped",
+        "coat_type": "Short, fine",
+        "coat_colors": "Black, blue, fawn, red, white, brindle",
+        "distinctive_features": "Deep chest, tucked abdomen"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Low indoors (sprinter)",
+        "curiosity": "Gentle and observant",
+        "social_interaction": "Reserved but sweet",
+        "affection_level": "Moderate (quietly devoted)",
+        "independence": "Moderate",
+        "intelligence": "Intelligent but sensitive"
+      },
+      "social_compatibility": {
+        "with_humans": "Bonds closely with family",
+        "with_pets": "High prey drive (no small pets)",
+        "with_children": "Good with gentle children",
+        "environment": "Apartment-friendly (couch potato)"
+      },
+      "health_profile": {
+        "lifespan": "10-14 years",
+        "common_genetic_issues": ["Bloat", "Dental disease", "Osteosarcoma"],
+        "preventive_care": ["Dental cleanings", "Slow feeders", "Joint supplements"]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing",
+        "bathing": "As needed",
+        "ear_cleaning": "Weekly",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Daily brushing"
+      },
+      "environmental_needs": {
+        "space": "Secure fenced area for sprints",
+        "toys_and_enrichment": "Lure coursing, soft toys",
+        "temperature_sensitivity": "Very cold-sensitive (needs coats)"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Moderate (sensitive nature)",
+        "preferred_activities": "Short sprints, lure chasing",
+        "socialization_needs": "Early socialization helps shyness"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Moderate",
+        "exercise_requirements": "Short bursts (30 sec sprints)",
+        "health_monitoring": "Teeth, bone health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "16-18 hours/day",
+        "preferred_sleeping_spots": "Soft couches/beds",
+        "sleep_cycle": "Deep sleeper",
+        "activity_vs_rest": "Extreme couch potato indoors",
+        "comfort_preferences": "Soft, warm surfaces"
+      }
+    },
+    {
+      "name": "Havanese",
+      "basic_information": {
+        "size": "Small (8.5-11.5 inches tall, 7-13 lbs)",
+        "origin": "Cuba",
+        "lifespan": "14-16 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Slightly longer than tall",
+        "head_shape": "Round skull, moderate stop",
+        "eye_shape_and_color": "Large, dark brown",
+        "ear_shape": "High-set, dropping",
+        "coat_type": "Long, silky (can be corded)",
+        "coat_colors": "All colors/patterns",
+        "distinctive_features": "Plumed tail over back"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate",
+        "curiosity": "Playfully inquisitive",
+        "social_interaction": "Extremely affectionate",
+        "affection_level": "Very high (velcro dog)",
+        "independence": "Low (companion-oriented)",
+        "intelligence": "Highly intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Thrives on human contact",
+        "with_pets": "Excellent with other pets",
+        "with_children": "Great family dog",
+        "environment": "Perfect for apartments"
+      },
+      "health_profile": {
+        "lifespan": "14-16 years",
+        "common_genetic_issues": ["Luxating patella", "Eye problems", "Deafness"],
+        "preventive_care": ["Regular eye checks", "Joint supplements", "Genetic testing"]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Daily brushing (unless clipped short)",
+        "bathing": "Weekly (show coat) or monthly",
+        "ear_cleaning": "Weekly",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Daily brushing"
+      },
+      "environmental_needs": {
+        "space": "Apartment-friendly",
+        "toys_and_enrichment": "Interactive puzzles, trick training",
+        "temperature_sensitivity": "Moderate (avoid extreme cold)"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Easy (eager to please)",
+        "preferred_activities": "Agility, therapy work",
+        "socialization_needs": "Naturally sociable"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Very high",
+        "exercise_requirements": "Low (short walks sufficient)",
+        "health_monitoring": "Eyes, knees, hearing"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "14-16 hours/day",
+        "preferred_sleeping_spots": "In owner's lap/bed",
+        "sleep_cycle": "Light sleeper (companion instinct)",
+        "activity_vs_rest": "Playful bursts then long naps",
+        "comfort_preferences": "Soft, warm spaces"
+      }
+    },
+    {
+      "name": "Hungarian Vizsla",
+      "basic_information": {
+        "size": "Medium (21-24 inches tall, 45-65 lbs)",
+        "origin": "Hungary",
+        "lifespan": "12-15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Lean, muscular",
+        "head_shape": "Noble, slightly domed",
+        "eye_shape_and_color": "Oval, golden brown",
+        "ear_shape": "Thin, hanging close to cheeks",
+        "coat_type": "Short, smooth",
+        "coat_colors": "Golden rust",
+        "distinctive_features": "Liver-colored nose, sleek appearance"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Very high",
+        "curiosity": "Highly investigative",
+        "social_interaction": "Velcro-like attachment to owner",
+        "affection_level": "Extremely affectionate",
+        "independence": "Low (people-oriented)",
+        "intelligence": "Highly intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Bonds intensely with family",
+        "with_pets": "Good with proper socialization",
+        "with_children": "Excellent with active kids",
+        "environment": "Needs space to run"
+      },
+      "health_profile": {
+        "lifespan": "12-15 years",
+        "common_genetic_issues": ["Hip dysplasia", "Epilepsy", "Allergies"],
+        "preventive_care": ["Joint supplements", "Allergy management", "Regular exercise"]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing",
+        "bathing": "As needed",
+        "ear_cleaning": "Weekly",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Daily brushing"
+      },
+      "environmental_needs": {
+        "space": "House with large yard essential",
+        "toys_and_enrichment": "Field work, running activities",
+        "temperature_sensitivity": "Moderate (provide shade)"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly trainable (eager to please)",
+        "preferred_activities": "Hunting, agility, swimming",
+        "socialization_needs": "Early socialization important"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Very high",
+        "exercise_requirements": "Extremely high (2+ hours/day)",
+        "health_monitoring": "Joints, neurological health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12-14 hours/day",
+        "preferred_sleeping_spots": "Right next to owner",
+        "sleep_cycle": "Deep sleeper after activity",
+        "activity_vs_rest": "Very active when awake",
+        "comfort_preferences": "Soft beds in family areas"
+      }
+    },
+    {
+      "name": "Italian Cane Corso",
+      "basic_information": {
+        "size": "Large (23-28 inches tall, 88-120 lbs)",
+        "origin": "Italy",
+        "lifespan": "9-12 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Powerful, athletic",
+        "head_shape": "Broad, molossus-type",
+        "eye_shape_and_color": "Oval, dark",
+        "ear_shape": "Triangular, cropped or natural",
+        "coat_type": "Short, stiff",
+        "coat_colors": "Black, gray, fawn, brindle",
+        "distinctive_features": "Imposing presence, cropped ears"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate to high",
+        "curiosity": "Alert and watchful",
+        "social_interaction": "Reserved with strangers",
+        "affection_level": "Loyal to family",
+        "independence": "Moderate",
+        "intelligence": "Highly intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Devoted to family",
+        "with_pets": "May be dog-aggressive",
+        "with_children": "Protective with family kids",
+        "environment": "House with secure yard"
+      },
+      "health_profile": {
+        "lifespan": "9-12 years",
+        "common_genetic_issues": ["Hip dysplasia", "Bloat", "Eyelid abnormalities"],
+        "preventive_care": ["Joint supplements", "Slow feeders", "Eye exams"]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing",
+        "bathing": "Every 2-3 months",
+        "ear_cleaning": "Weekly",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Daily brushing"
+      },
+      "environmental_needs": {
+        "space": "House with yard",
+        "toys_and_enrichment": "Protection training, heavy chew toys",
+        "temperature_sensitivity": "Moderate (avoid extreme heat)"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Needs experienced handler",
+        "preferred_activities": "Guard work, obedience",
+        "socialization_needs": "Extensive early socialization"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Moderate",
+        "exercise_requirements": "High (needs job/tasks)",
+        "health_monitoring": "Joints, stomach, eyes"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12-14 hours/day",
+        "preferred_sleeping_spots": "Guard positions near entryways",
+        "sleep_cycle": "Light sleeper (protective instinct)",
+        "activity_vs_rest": "Alert when awake",
+        "comfort_preferences": "Large orthopedic beds"
+      }
+    },
+    {
+      "name": "Jack Russell Terrier",
+      "basic_information": {
+        "size": "Small (10-15 inches tall, 13-17 lbs)",
+        "origin": "England",
+        "lifespan": "13-16 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Compact, athletic",
+        "head_shape": "Flat, wedge-shaped",
+        "eye_shape_and_color": "Almond, dark",
+        "ear_shape": "V-shaped, dropped",
+        "coat_type": "Smooth, rough or broken",
+        "coat_colors": "White with black/tan markings",
+        "distinctive_features": "Expressive face, high energy"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Extremely high",
+        "curiosity": "Highly investigative",
+        "social_interaction": "Bold and feisty",
+        "affection_level": "Loyal but independent",
+        "independence": "Very high (terrier stubbornness)",
+        "intelligence": "Highly intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Best with active owners",
+        "with_pets": "High prey drive (chases small animals)",
+        "with_children": "Good with older children",
+        "environment": "Needs secure outdoor space"
+      },
+      "health_profile": {
+        "lifespan": "13-16 years",
+        "common_genetic_issues": ["Lens luxation", "Deafness", "Patellar luxation"],
+        "preventive_care": ["Eye exams", "Hearing tests", "Joint supplements"]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing (more for rough coats)",
+        "bathing": "Monthly",
+        "ear_cleaning": "Weekly",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Daily brushing"
+      },
+      "environmental_needs": {
+        "space": "House with secure yard essential",
+        "toys_and_enrichment": "Digging boxes, agility equipment",
+        "temperature_sensitivity": "Moderate"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Challenging (independent thinker)",
+        "preferred_activities": "Earthdog trials, agility",
+        "socialization_needs": "Early socialization critical"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Moderate",
+        "exercise_requirements": "Very high (needs job)",
+        "health_monitoring": "Eyes, hearing, knees"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12-14 hours/day",
+        "preferred_sleeping_spots": "Burrowed in blankets",
+        "sleep_cycle": "Light sleeper (alert to noises)",
+        "activity_vs_rest": "Constant motion when awake",
+        "comfort_preferences": "Enclosed spaces (den-like)"
+      }
+    },
+    {
+      "name": "Yorkshire Terrier"
+    }
+  ]
+}
+  
