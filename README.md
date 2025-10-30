@@ -69,7 +69,7 @@ A core part of this project is the integration of deep learning models for intel
   * **Backend & Database:** **Firebase** (Authentication, Firestore, Realtime Database, Storage)
   * **Backend Server (for AI):** Node.js, Express.js
   * **Machine Learning:** **Python**, **TensorFlow**, OpenCV
-  * **Design & Prototyping:** Figma, Adobe Illustrator
+  * **Design & Prototyping:** Figma
 
 -----
 
