@@ -69,7 +69,7 @@ A core part of this project is the integration of deep learning models for intel
   * **Backend & Database:** **Firebase** (Authentication, Firestore, Realtime Database, Storage)
   * **Backend Server (for AI):** Node.js, Express.js
   * **Machine Learning:** **Python**, **TensorFlow**, OpenCV
-  * **Design & Prototyping:** Figma, Adobe Illustrator
+  * **Design & Prototyping:** Figma
 
 -----
 
@@ -78,8 +78,9 @@ A core part of this project is the integration of deep learning models for intel
   * Node.js & npm
   * React Native CLI
   * A Firebase project
-  * Python (v3.9+)
-  * Android Studio (for Android emulator) or Xcode (for iOS simulator)
+  * Python (v3.9-3.12)
+  * IDE
+  * Install requirememnts and run app.py for using models and automation sever
 
 ## 👥 Our Team
 
