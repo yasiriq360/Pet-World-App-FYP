@@ -1,0 +1,9 @@
+flask
+torch
+torchvision
+opencv-python
+ultralytics
+tensorflow
+Pillow
+stripe
+firebase-admin

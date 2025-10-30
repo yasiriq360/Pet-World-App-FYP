@@ -1,0 +1,330 @@
+{% extends "base.html" %}
+{% block title %}Pet World App{% endblock %}
+{% block head %}
+  {{ super() }}
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      color: #333;
+    }
+    .container {
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      width: 100%;
+      max-width: 600px;
+      margin-top: 20px; /* Added margin to separate from top */
+      margin-bottom: 20px; /* Added margin to separate from bottom */
+    }
+    h1 {
+      color: #007bff;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 1.1em;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+    .button {
+      display: inline-block;
+      background-color: #007bff;
+      color: #fff;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+    .button:hover {
+      background-color: #0056b3;
+    }
+    .image-section {
+      margin-top: 30px;
+      padding-top: 20px;
+      border-top: 1px solid #eee;
+    }
+    .image-section img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin-top: 15px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    }
+    /* Form specific styles */
+    form {
+      margin-top: 40px;
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      text-align: left;
+    }
+    form h2 { text-align: center; color: #333; margin-bottom: 20px; }
+    form input[type="file"] { margin-bottom: 15px; }
+    form button { width: 100%; padding: 12px; background: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; transition: background-color 0.3s ease; }
+    form button:hover { background-color: #218838; }
+    form img { max-width: 100%; border: 2px solid #ddd; border-radius: 10px; margin-top: 15px; display: block; margin-left: auto; margin-right: auto; }
+    pre, .result { background: #eee; padding: 10px; border-radius: 5px; margin-top: 10px; font-size: 16px; word-wrap: break-word; white-space: pre-wrap; }
+    
+    /* Stripe form specific styles */
+    .stripe-container {
+        max-width: 600px;
+        margin: 40px auto; /* Added margin-top */
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        box-shadow: 2px 2px 12px rgba(0,0,0,0.1);
+        text-align: left; /* Align text within stripe container */
+    }
+    .stripe-container h1 { text-align: center; color: #333; }
+    .stripe-container label { display: block; margin-bottom: 5px; font-weight: bold; }
+    .stripe-container input[type="text"], 
+    .stripe-container input[type="email"], 
+    .stripe-container input[type="number"] {
+        width: calc(100% - 22px); /* Account for padding and border */
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+    }
+    .stripe-container button {
+        width: 100%;
+        padding: 12px 20px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+    .stripe-container button:hover {
+        background-color: #0056b3;
+    }
+    #error-message { color: red; text-align: center; margin-top: 10px; }
+  </style>
+{% endblock %}
+{% block content %}
+  <div class="container">
+    <h1>Welcome to Pet World App Backend!</h1>
+    <p>This is the backend server for your Pet World application. It handles various functionalities including:</p>
+    <ul>
+      <li>Image processing for pet breed prediction.</li>
+      <li>Detection of skin diseases in animals.</li>
+      <li>Classification of cats vs. dogs.</li>
+      <li>Stripe payment processing for subscriptions.</li>
+      <li>And more!</li>
+    </ul>
+    <p>Your mobile application will interact with these endpoints to provide a rich experience to your users.</p>
+    <p>If you are a developer, you can find the API documentation and source code in the respective project folders.</p>
+    <div class="image-section">
+      <h2>Example Output Image</h2>
+      <p>This is an example of an output image from one of our processing endpoints (e.g., skin disease detection):</p>
+      <img src="/static/last_output.jpg" alt="Last Output Image">
+    </div>
+
+    <!-- Dog Breed Classification -->
+    <form id="breedForm">
+      <h2>🐶 Dog Breed Classification</h2>
+      <input type="file" id="breedImage" name="image" accept="image/*" required>
+      <button type="submit">Predict Breed</button><br>
+      <img id="breedPreview" src="#" alt="Preview" style="display:none;">
+      <pre id="breedResult"></pre>
+    </form>
+
+    <!-- Skin Disease Detection -->
+    <form id="skinForm">
+      <h2>🧴 Pet Skin Disease Detection</h2>
+      <input type="file" id="skinImage" name="image" accept="image/*" required>
+      <button type="submit">Detect Skin Issues</button><br>
+      <img id="skinPreview" src="#" alt="Preview" style="display:none;">
+      <pre id="skinResult"></pre>
+      <h3>🖼️ Detection Output Image:</h3>
+      <img id="outputImage" src="#" style="display:none;">
+    </form>
+
+    <!-- Cat vs Dog Classification -->
+    <form id="catDogForm">
+      <h2>🐱🐶 Cat vs Dog Classification</h2>
+      <input type="file" id="catDogImage" name="image" accept="image/*" required>
+      <button type="submit">Classify Cat or Dog</button><br>
+      <img id="catDogPreview" src="#" alt="Preview" style="display:none;">
+      <div class="result" id="catDogResult"></div>
+    </form>
+
+    <!-- Cat Breed Prediction -->
+    <form id="catBreedForm">
+      <h2>🐱 Cat Breed Prediction (Xception Model)</h2>
+      <input type="file" id="catBreedImage" name="image" accept="image/*" required>
+      <button type="submit">Predict Cat Breed</button><br>
+      <img id="catBreedPreview" src="#" alt="Preview" style="display:none;">
+      <pre id="catBreedResult"></pre>
+    </form>
+
+    <!-- Stripe Checkout Test Form -->
+    <div class="stripe-container">
+      <h1>Test Stripe Checkout</h1>
+      <form id="checkout-form">
+          <label for="plan_name">Plan Name:</label>
+          <input type="text" id="plan_name" value="Premium Plan" required><br>
+
+          <label for="plan_price">Plan Amount (PKR):</label>
+          <input type="number" id="plan_price" value="28000.00" step="0.01" required><br>
+
+          <label for="plan_email">Your Email:</label>
+          <input type="email" id="plan_email" value="test@example.com" required><br>
+
+          <label for="plan_duration">Plan Duration (e.g., 1 month, 3 months):</label>
+          <input type="text" id="plan_duration" value="1 month" required><br>
+
+          <label for="num_posts">Number of Posts:</label>
+          <input type="number" id="num_posts" value="100" required><br>
+
+          <button type="submit">Pay with Stripe</button>
+      </form>
+      <div id="error-message"></div>
+    </div>
+  </div>
+
+  <script src="https://js.stripe.com/v3/"></script>
+
+  <script>
+    function previewImage(input, previewId) {
+      const file = input.files[0];
+      const reader = new FileReader();
+      reader.onload = e => {
+        const img = document.getElementById(previewId);
+        img.src = e.target.result;
+        img.style.display = "block";
+      };
+      reader.readAsDataURL(file);
+    }
+
+    document.getElementById("breedImage").addEventListener("change", () => previewImage(breedImage, "breedPreview"));
+    document.getElementById("skinImage").addEventListener("change", () => previewImage(skinImage, "skinPreview"));
+    document.getElementById("catDogImage").addEventListener("change", () => previewImage(catDogImage, "catDogPreview"));
+    document.getElementById("catBreedImage").addEventListener("change", () => previewImage(catBreedImage, "catBreedPreview"));
+
+    document.getElementById("breedForm").addEventListener("submit", async function (e) {
+      e.preventDefault();
+      const formData = new FormData();
+      formData.append("image", breedImage.files[0]);
+
+      const res = await fetch("/predict-breed", { method: "POST", body: formData });
+      const data = await res.json();
+      if (res.ok) {
+        const confidenceText = (typeof data.confidence !== 'undefined') ? ` (Confidence: ${(data.confidence * 100).toFixed(2)}%)` : '';
+        document.getElementById("breedResult").textContent = `Breed: ${data.predicted_breed_label} (Index: ${data.predicted_breed_index})${confidenceText}`;
+      } else {
+        document.getElementById("breedResult").textContent = `Error: ${data.error}`;
+      }
+    });
+
+    document.getElementById("skinForm").addEventListener("submit", async function (e) {
+      e.preventDefault();
+      const formData = new FormData();
+      formData.append("image", skinImage.files[0]);
+
+      const res = await fetch("/detect-skin-disease", { method: "POST", body: formData });
+      const data = await res.json();
+
+      document.getElementById("skinResult").textContent = data.detections.map(d => `Label: ${d.label}`).join("\n");
+
+      if (data.output_image) {
+        const img = document.getElementById("outputImage");
+        img.src = data.output_image + '?t=' + new Date().getTime();
+        img.style.display = "block";
+      }
+    });
+
+    document.getElementById("catDogForm").addEventListener("submit", async function (e) {
+      e.preventDefault();
+      const formData = new FormData();
+      formData.append("image", catDogImage.files[0]);
+
+      const res = await fetch("/classify-cat-dog", { method: "POST", body: formData });
+      const data = await res.json();
+
+      if (res.ok) {
+        const confidenceText = (typeof data.confidence !== 'undefined') ? ` (Confidence: ${(data.confidence * 100).toFixed(2)}%)` : '';
+        document.getElementById("catDogResult").textContent = `Prediction: ${data.predicted_label}${confidenceText}`;
+      } else {
+        document.getElementById("catDogResult").textContent = `Error: ${data.error}`;
+      }
+    });
+
+    document.getElementById("catBreedForm").addEventListener("submit", async function (e) {
+      e.preventDefault();
+      const formData = new FormData();
+      formData.append("image", catBreedImage.files[0]);
+
+      const res = await fetch("/predict-cat-breed", { method: "POST", body: formData });
+      const data = await res.json();
+      if (res.ok) {
+        const confidenceText = (typeof data.confidence !== 'undefined') ? ` (Confidence: ${(data.confidence * 100).toFixed(2)}%)` : '';
+        document.getElementById("catBreedResult").textContent = `Cat Breed: ${data.predicted_breed_label}${confidenceText}`;
+      } else {
+        document.getElementById("catBreedResult").textContent = `Error: ${data.error}`;
+      }
+    });
+
+    // Stripe Checkout JavaScript
+    document.addEventListener('DOMContentLoaded', () => {
+        const stripe = Stripe('pk_test_51QlpiQ06xEZj1ZhfqizspHQdQ4lYeTAnsGP5R9NP7YRdcNvOCO5aKQQN62OJwnob2jUMGYkVFcCy0FD8H6IGA2k400KeFzefN4'); // Your actual public key
+
+        document.getElementById('checkout-form').addEventListener('submit', async (event) => {
+            event.preventDefault();
+
+            const plan_name = document.getElementById('plan_name').value;
+            const plan_price = document.getElementById('plan_price').value;
+            const plan_email = document.getElementById('plan_email').value;
+            const plan_duration = document.getElementById('plan_duration').value;
+            const num_posts = document.getElementById('num_posts').value;
+
+            try {
+                const response = await fetch('/create-checkout-session', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        plan_name,
+                        plan_price,
+                        plan_email,
+                        plan_duration,
+                        num_posts
+                    }),
+                });
+
+                const session = await response.json();
+
+                if (session.error) {
+                    document.getElementById('error-message').textContent = session.error;
+                } else {
+                    console.log("Attempting Stripe redirect with session ID:", session.id); // Debugging log
+                    const result = await stripe.redirectToCheckout({
+                        sessionId: session.id,
+                    });
+
+                    if (result.error) {
+                        console.error("Stripe redirectToCheckout error:", result.error); // Debugging log
+                        document.getElementById('error-message').textContent = result.error.message;
+                    }
+                }
+            } catch (error) {
+                console.error("Fetch or Stripe error:", error); // Debugging log
+                document.getElementById('error-message').textContent = 'Error: ' + error.message;
+            }
+        });
+    });
+  </script>
+{% endblock %}
